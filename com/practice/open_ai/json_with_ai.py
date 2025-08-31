@@ -1,4 +1,4 @@
-# pip install langchain-openai langchain langchain-openai openai python-dotenv
+# pip install langchain-openai langchain langchain-openai openai python-dotenv langchain-community
 
 from langchain.prompts import PromptTemplate
 from langchain.chat_models import ChatOpenAI
@@ -69,7 +69,7 @@ Expectations: Json sould also included the any additional fileds not mentioned i
 prompt = PromptTemplate(input_variables=["user_prompt"], template=prompt_template)
 
 # Initialize the GPT-4o LLM
-llm = ChatOpenAI(temperature=0, model="gpt-4")
+llm = ChatOpenAI(temperature=0, model="gpt-4o-mini")
 
 # Define the LangChain LLM chain
 chain = LLMChain(llm=llm, prompt=prompt)
