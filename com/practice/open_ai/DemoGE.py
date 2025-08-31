@@ -1,11 +1,12 @@
+import json
 from openai import OpenAI
 
-class Demo:
+class DemoGE:
 
     def __init__(self):
         print("Intialize")
         self.client = OpenAI(
-            api_key=""
+            # api_key=""
         )
 
         self.command : str = '''
@@ -82,9 +83,11 @@ Example Output (JSON AST):
             ]
         )
 
-        print(response.choices[0].message.content)
+        res=response.choices[0].message.content
+        print(json.dumps(res,indent=2))
+        print(res)
 
 
 if __name__ == '__main__':
-    ob : Demo = Demo()
+    ob : DemoGE = DemoGE()
     ob.execute_api()

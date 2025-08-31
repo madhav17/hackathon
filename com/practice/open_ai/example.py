@@ -20,6 +20,9 @@ if __name__ ==  '__main__':
         "amount": [120.5, 999.1, np.nan, 520.0, 160.0, 12000.0, 80.0, 510.0, 600.0, 150.0],
         "country": ["IN","US","US","IN","GB","IN","US",None,"US","IN"]
     })
+
+    print(df_raw.info())
+    print(df_raw.describe(include="all"))
     # df_raw is a pandas.DataFrame (pandas input)
 
     # -----------------------------
