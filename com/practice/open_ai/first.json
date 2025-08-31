@@ -1,0 +1,28 @@
+{
+  "op": "AND",
+  "children": [
+    {
+      "op": "CMP",
+      "field": "status",
+      "cmp": "neq",
+      "value": "shipped"
+    },
+    {
+      "op": "OR",
+      "children": [
+        {
+          "op": "CMP",
+          "field": "amount",
+          "cmp": "gt",
+          "value": 500
+        },
+        {
+          "op": "CMP",
+          "field": "country",
+          "cmp": "eq",
+          "value": "US"
+        }
+      ]
+    }
+  ]
+}
