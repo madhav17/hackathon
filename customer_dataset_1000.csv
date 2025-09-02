@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,company,salary,separtment,city,email,phone_number,date_of_birth,date_of_joining,age,years_of_experience
+CUST0001,Amit,Rastogi,Amazon India,2368525.98,HR,Pune,amit.rastogi@org.in,4635493,2025-2-3,2024/02/30,143,65
+CUST0002,Harshit,Kulkarni,Tata Consultancy,27016809.18,IT,Mumbai,harshit.kulkarni222@example.com,+91-921029435635,1970-12-08,,108,43
+CUST0003,Ishita,,Zomato,2975140.41,IT,Delhi,ishita.khan712@mail.com,+91-6562326942,20250230,notadate,25,-4
+CUST0004,Ankit,Khan,Zomato,2032135.40,HR,Mumbai,ankit.khan600@org.in,0816137075,1990-10-31,2017-02-20,103,-2
+CUST0005,Neha,Reddy,Flipkart,1261084.34,FINANCE,Chennai,neha.reddy@company.co.in,+91-8161015639,1983-10-06,2001-04-31,117,102
+CUST0006,Tarun,Chaudhary,Zoho,2456217.64,HR,Hyderabad,tarun.chaudhary@mail.com,+91 94347-889211,1985-12-31,2005-01-30,18,0
+CUST0007,Aanya,Ghosh,Aditya Birla Group,480312.20,FINANCE,Kolkata,,+91-9463361493,1960-03-25,2013-04-13,63,18
+CUST0008,Amit,Srivastava,Zomato,1487641.80,HR,Pune,amit.srivastava475@corp.in,+91-303506950462,13-2025-01,2019-01-14,28,8
+CUST0009,Aarav,Iyer,Zomato,963844.03,HR,Kolkata,aarav_iyer943@mail.com,+91-6205111969,1981-03-18,06/11/2014,32,1
+CUST0010,Ritika,Mehta,BYJU'S,1421182.51,IT,Mumbai,ritika_mehta89@mail.com,7362677,2025/15/01,2021-08-18,39,10
+CUST0011,Neha,Kaur,Hero Motocorp,-2571.45,FINANCE,Chennai,neha.kaur@mail.com,2345177,1969-12-07,20-05-2025,55,-2
+CUST0012,Aditya,Sharma,Swiggy,2369281.44,IT,Mumbai,aditya.sharma@corp.in,+91-7617723359,2004-02-29,2022-04-02,65,32
+CUST0013,Advait,Saxena,Amazon India,783516.00,HR,Mumbai,fxehz@gpl,,1995-01-13,2018-04-03,140,74
+CUST0014,Kabir,Yadav,Reliance Digital,2421693.09,FINANCE,Bengaluru,kabir.yadav@org.in,+91-7008200646,1992-10-08,08/05/2023,67,31
+CUST0015,Vihaan,Gupta,Infosys,885880.28,HR,,vihaan.gupta353@corp.in,+91-681130806356,1957-06-10,2008-03-02,42,-3
+CUST0016,,Mehta,Amazon India,2804899.62,IT,Mumbai,rohan.mehta@example.com,0966915705,20250230,2022-06-12,69,68
+CUST0017,Ira,Das,Swiggy,390739.67,HR,Ahmedabad,ira.das19@company.co.in,+91-570047923334,2001-04-31,notadate,24,3
+CUST0018,Meera,Rana,PhonePe,696265.17,HR,Mumbai,meera_rana@org.in,0817074286,1964-08-04,2014-08-22,29,11
+CUST0019,Ankit,Reddy,Mindtree,908286.15,HR,Kolkata,ankit_reddy@corp.in,2171696,1981-01-31,2009-11-17,50,28
+CUST0020,Advait,Rana,Mahindra,28315959.31,FINANCE,Hyderabad,,8298477,1985-04-20,2025/15/01,68,-2
+CUST0021,Ishita,Sharma,HDFC Bank,2148127.41,HR,Kolkata,ishita.sharma115@mail.com,8278917805,1994-09-29,2018-05-04,31,0
+CUST0022,Dev,Jain,Hero Motocorp,2128462.39,IT,Bengaluru,dev.jain17@org.in,0782044107,2002-11-25,2024-08-30,29,11
+CUST0023,,Mukherjee,Mindtree,547829.19,HR,Mumbai,dev.mukherjee657@company.co.in,+91 78485-210193,20-05-2025,2010-11-15,41,18
+CUST0024,Rahul,Das,Maruti Suzuki,2968716.87,HR,Delhi,rahul.das@company.co.in,0933116131,1986-01-03,2016-01-14,49,15
+CUST0025,Aditya,Rana,Freshworks,-8405.37,HR,Hyderabad,aftaf@nlq,+91-6930402161,1968-12-18,2025-2-3,109,78
+CUST0026,Vivaan,,Amazon India,928724.77,IT,Ahmedabad,vivaan_banerjee@mail.com,0900196531,1992-03-22,2000-00-10,117,24
+CUST0027,Tarun,Banerjee,HDFC Bank,1091847.22,FINANCE,Bengaluru,tarun.banerjee883@example.com,0872801011,1978-10-15,21/09/2008,47,26
+CUST0028,Advait,Kulkarni,Infosys,2886112.82,FINANCE,Bengaluru,advait.kulkarni@company.co.in,6305379,1960-10-10,2019-02-07,42,32
+CUST0029,Ira,Naik,Infosys,1499427.09,IT,Kolkata,ira.naik@org.in,+91-449758755631,notadate,13-2025-01,62,30
+CUST0030,Nitin,Saxena,BYJU'S,2974848.26,IT,Ahmedabad,nitin_saxena502@mail.com,+91 99120-429638,"Feb 30, 1990",2025-13-40,53,34
+CUST0031,Aarav,Iyer,Tech Mahindra,990618.33,,Delhi,fpfna@lmv,0881274573,1995-07-16,2014-06-12,31,6
+CUST0032,Ritika,Naik,Zomato,-31366.84,FINANCE,,,2512983,31/31/2020,2025/15/01,41,22
+CUST0033,Ritika,Mishra,Zomato,-32942.35,IT,Chennai,ritika_mishra494@example.com,+91-8924240785,1983-10-14,2024/02/30,-8,70
+CUST0034,Siddharth,Rastogi,Reliance Digital,739983.89,FINANCE,Delhi,siddharth_rastogi@corp.in,0890019450,1976-06-14,2010-09-07,139,60
+CUST0035,Anshul,Rastogi,HDFC Bank,-48434.56,IT,Ahmedabad,anshul.rastogi@company.co.in,,1985-07-02,20250230,24,5
+CUST0036,Siddharth,Das,Wipro,413345.87,HR,Mumbai,,+91-977329322727,1988-08-12,2015-03-31,48,45
+CUST0037,Advait,Banerjee,Infosys,2860586.49,FINANCE,Hyderabad,advait.banerjee@corp.in,,1965-09-10,"Feb 30, 1990",28,1
+CUST0038,Kavya,Bansal,Mahindra,391365.32,,Ahmedabad,kavya.bansal@org.in,9403587311,2001-04-31,2021-11-13,50,6
+CUST0039,Diya,Singh,Mahindra,2085535.50,FINANCE,Kolkata,diya.singh@corp.in,+91-8578333877,1977-08-12,2008-06-20,54,10
+CUST0040,Aanya,Das,Ola Cabs,1636727.29,IT,Bengaluru,aanya.das638@mail.com,+91-8240996857,1987-09-15,2014-03-10,35,4
+CUST0041,Veer,Pandey,Tech Mahindra,996433.38,FINANCE,Mumbai,veer.pandey@company.co.in,+91-770027556346,2007-09-26,2010-06-24,144,70
+CUST0042,Veer,Kapoor,ICICI Bank,393323.71,HR,Ahmedabad,veer_kapoor89@mail.com,9288639445,1973-10-11,2025-01-02,105,74
+CUST0043,Arjun,Arora,BYJU'S,1348990.55,IT,Hyderabad,arjun.arora@mail.com,0903783132,1959-02-18,2016-08-29,-4,88
+CUST0044,Vihaan,Chopra,Hero Motocorp,1523207.42,HR,Hyderabad,vihaan.chopra@corp.in,,2004-11-09,06/08/2023,38,32
+CUST0045,Nitin,Menon,ICICI Bank,1800846.77,HR,Delhi,nitin.menon@example.com,0968928971,1959-01-24,2008-07-07,42,6
+CUST0046,Veer,Mishra,Flipkart,-36040.02,HR,Bengaluru,veer.mishra@example.com,+91-160754216929,1975-07-23,2000-00-10,64,51
+CUST0047,Harshit,Chopra,Swiggy,659511.11,IT,Delhi,harshit.chopra814@corp.in,+91 86804-108833,1989-01-06,20-05-2025,67,22
+CUST0048,Rohan,Reddy,Zoho,2902250.04,FINANCE,Kolkata,,+91-413764168956,1994-03-17,2018-12-13,47,23
+CUST0049,Kabir,Kulkarni,Mindtree,692423.07,FINANCE,Bengaluru,kabir.kulkarni@company.co.in,+91-6693858388,1975-07-10,2015-01-15,58,24
+CUST0050,Anshul,Pandey,Aditya Birla Group,-9777.28,HR,Delhi,anshul.pandey@corp.in,1865550,notadate,2012-05-13,29,9
+CUST0051,Pooja,Verma,Bharat Petroleum,2201058.94,FINANCE,Pune,pooja.verma@mail.com,+91-6007590182,1959-04-25,,32,1
+CUST0052,Arjun,Pillai,Tech Mahindra,1041470.57,HR,Pune,arjun.pillai@org.in,+91 92887-771515,2006-12-10,2001-04-31,60,28
+CUST0053,Neha,Pillai,HCL Technologies,1860744.31,IT,Chennai,neha.pillai99@company.co.in,8729265,1999-04-16,2024-12-14,24,-2
+CUST0054,Arjun,Ghosh,Zoho,2678010.87,HR,Chennai,ownsi@hvt,+91-7576258433,1972-06-02,2019-04-07,58,50
+CUST0055,Ishita,Dwivedi,,2768585.06,FINANCE,Hyderabad,ishita.dwivedi190@corp.in,+91 80509-572748,2025-2-3,2018-10-25,55,9
+CUST0056,Saanvi,Thakur,PhonePe,-36983.90,,Mumbai,,+91 97092-424568,1966-01-29,2008-04-05,129,42
+CUST0057,Diya,,Ola Cabs,2656505.92,HR,Chennai,diya.agarwal262@org.in,+91-7442431736,1955-08-28,2018-03-06,107,-2
+CUST0058,Nitin,Srivastava,,15421312.96,IT,Pune,,2927684,1955-11-25,"Feb 30, 1990",36,30
+CUST0059,Akash,Das,Flipkart,216356.89,IT,Delhi,akash.das572@corp.in,9302341308,1965-04-17,2014-09-30,61,-3
+CUST0060,Rahul,Jain,PhonePe,1222233.48,FINANCE,,rahul_jain@mail.com,+91-135143330831,1973-07-05,2009-04-04,-8,-4
+CUST0061,Ankit,Joshi,Tech Mahindra,396841.87,FINANCE,Kolkata,ankit.joshi@example.com,8709008306,13-2025-01,2001-04-31,25,7
+CUST0062,Akash,Kapoor,HCL Technologies,2796093.67,HR,Delhi,akash.kapoor@company.co.in,+91 73637-388612,1961-08-10,2020-01-09,38,20
+CUST0063,Ananya,Naik,,2707637.03,IT,Pune,ananya.naik716@org.in,+91-938760056015,2024/02/30,20250230,64,46
+CUST0064,Pooja,Verma,,1222520.55,IT,Pune,pooja.verma@mail.com,7711134,2025-2-3,2009-06-02,46,17
+CUST0065,Advait,Gupta,Indian Oil,1647221.75,HR,Kolkata,gdvzg@dpv,0814119037,1966-10-07,07/11/2019,28,12
+CUST0066,Kunal,Das,Infosys,2126473.79,IT,Bengaluru,kunal.das@mail.com,0941903140,31/31/2020,2019-03-31,51,5
+CUST0067,Arjun,Bansal,Zomato,2892452.03,HR,Kolkata,,+91-9513734914,,2015-10-11,18,0
+CUST0068,Harshit,Chaudhary,Tata Consultancy,1863230.46,FINANCE,Hyderabad,harshit.chaudhary@corp.in,,2025-13-40,2024-05-06,60,19
+CUST0069,Aarav,Singh,Ola Cabs,335409.53,IT,Mumbai,aarav.singh@corp.in,+91 97760-371427,1985-06-22,2010-09-23,32,9
+CUST0070,Meera,Srivastava,HDFC Bank,2132338.54,HR,Chennai,meera.srivastava@company.co.in,0891702080,1968-01-14,20250230,52,29
+CUST0071,Kiran,Iyer,Swiggy,2208521.07,HR,Pune,kiran.iyer@org.in,+91-8428110215,2004-08-20,20-05-2025,40,20
+CUST0072,Ankit,Joshi,Freshworks,531697.98,IT,Bengaluru,,+91 80383-400803,1975-03-12,2012-01-21,51,23
+CUST0073,Advait,Rawat,Wipro,2601702.75,HR,Bengaluru,advait.rawat@corp.in,8008771,2024/02/30,2018-05-02,25,3
+CUST0074,Harshit,Singh,HDFC Bank,2417197.19,IT,Delhi,harshit.singh@example.com,+91-525891548574,13-2025-01,2024-07-14,58,-4
+CUST0075,Saanvi,Iyer,Paytm,1024458.24,IT,Hyderabad,saanvi.iyer@mail.com,9455963637,notadate,2009-12-13,52,9
+CUST0076,Tanvi,Tripathi,Amazon India,12539382.11,IT,Chennai,,7202629184,2025-13-40,2009-07-11,59,4
+CUST0077,Tarun,Chaudhary,Larsen & Toubro,465672.59,IT,Kolkata,tarun.chaudhary922@example.com,+91-728811465978,1997-01-19,2024-06-18,146,74
+CUST0078,Veer,Naik,HCL Technologies,1016002.75,HR,Bengaluru,pjjsn@hzr,8934674880,1990-10-19,2010-05-25,144,63
+CUST0079,Anshul,Reddy,HCL Technologies,38549773.91,FINANCE,Hyderabad,anshul.reddy@corp.in,0792944224,2005-08-19,2024-01-02,68,48
+CUST0080,Aanya,Tiwari,Zomato,1328656.68,IT,Chennai,aanya.tiwari98@company.co.in,1290649,1960-10-27,20250230,18,0
+CUST0081,,Jain,Freshworks,694721.03,FINANCE,Ahmedabad,kavya.jain@corp.in,+91-602098217720,1960-01-17,2021-12-24,123,16
+CUST0082,Ritika,Rawat,Hero Motocorp,689890.67,HR,Ahmedabad,,+91-6321905945,"Feb 30, 1990",2018-02-10,22,2
+CUST0083,Tanvi,Mishra,Tech Mahindra,1434898.50,HR,Kolkata,tanvi.mishra@example.com,+91-966571571214,1969-04-18,2025-13-40,49,5
+CUST0084,Akash,Bhatia,Aditya Birla Group,1703148.81,HR,Hyderabad,akash_bhatia@company.co.in,+91-8635229713,2004-02-24,2022-06-28,50,0
+CUST0085,Ishaan,Naik,Swiggy,2876812.34,IT,Hyderabad,qzqis@yth,+91 70615-820471,2006-02-06,15/03/2024,42,-5
+CUST0086,Saanvi,Sharma,Hero Motocorp,1749740.42,IT,Delhi,saanvi.sharma@example.com,0781454235,2001-04-31,,52,12
+CUST0087,Saanvi,Bhatia,Flipkart,2475002.55,FINANCE,Ahmedabad,saanvi.bhatia@example.com,,1960-05-22,2016-02-08,65,2
+CUST0088,Kavya,Jain,Reliance Digital,-30570.77,IT,Kolkata,kavya_jain291@org.in,+91 86261-965041,1970-05-28,2025-13-40,42,11
+CUST0089,Ankit,Kulkarni,Indian Oil,2376681.91,IT,Hyderabad,ankit.kulkarni@example.com,+91 84193-495129,2000-04-30,13-2025-01,63,0
+CUST0090,Ankit,Patel,PhonePe,1398388.11,FINANCE,Kolkata,ankit.patel@example.com,4392294,1992-11-14,2016-03-31,51,-5
+CUST0091,Rohan,Pandey,Paytm,1009718.75,HR,Hyderabad,rohan.pandey948@corp.in,+91-780325004184,1968-10-19,2018-09-23,134,38
+CUST0092,Vihaan,Rana,Flipkart,30478822.93,HR,Bengaluru,vihaan.rana@company.co.in,0809904265,1964-09-11,2005-01-17,27,1
+CUST0093,Manya,Mukherjee,Tech Mahindra,1157961.43,FINANCE,Kolkata,manya.mukherjee@example.com,8923506520,31/31/2020,2019-06-06,24,2
+CUST0094,Manya,Verma,Infosys,1669970.13,FINANCE,Delhi,manya.verma314@corp.in,+91-7174534652,2000-06-19,2020-05-19,55,16
+CUST0095,Tarun,Pillai,Ola Cabs,-24468.32,IT,Hyderabad,tarun.pillai@example.com,,2000-12-13,2019-05-30,-10,33
+CUST0096,Sneha,Tiwari,Indian Oil,2701299.47,IT,Hyderabad,sneha_tiwari620@company.co.in,+91 84780-248494,20-05-2025,2006-08-01,20,2
+CUST0097,Ritika,Thakur,Swiggy,2211227.13,IT,Hyderabad,ritika.thakur508@company.co.in,+91-6689459509,1986-03-21,2024-08-11,64,45
+CUST0098,,Tiwari,Hero Motocorp,353784.80,IT,Pune,aanya.tiwari@corp.in,+91-7917920594,31/31/2020,2019-10-10,68,36
+CUST0099,Akash,Srivastava,Ola Cabs,754978.10,HR,Kolkata,akash.srivastava261@company.co.in,+91-7153169837,2000-11-14,2020-03-10,19,1
+CUST0100,Aaradhya,Banerjee,Hero Motocorp,1947873.11,HR,Kolkata,aaradhya.banerjee@example.com,1137811,1987-08-02,2016-03-23,36,8
+CUST0101,Veer,Das,Larsen & Toubro,1574124.34,HR,Bengaluru,veer.das@org.in,+91-6640744212,1978-08-28,2014-05-03,48,1
+CUST0102,Saanvi,Tiwari,Flipkart,2909390.69,HR,Kolkata,saanvi.tiwari408@org.in,+91-716826874273,1975-12-20,2008-04-15,28,5
+CUST0103,Meera,Mukherjee,Mahindra,16887440.76,IT,Chennai,meera.mukherjee761@example.com,0993931524,20-05-2025,2000-00-10,24,1
+CUST0104,Kavya,Chaudhary,Larsen & Toubro,296032.48,IT,Hyderabad,kavya.chaudhary@mail.com,0856182953,1974-11-11,2015-08-25,31,4
+CUST0105,Siddharth,Chopra,Tata Consultancy,2782945.89,IT,Pune,gjdms@nax,,2001-09-22,2025-06-30,46,6
+CUST0106,Sonia,Rana,Bharat Petroleum,2795400.87,FINANCE,Ahmedabad,ygfgg@txt,9348339576,13-2025-01,2019-07-01,134,92
+CUST0107,Kavya,Singh,Tech Mahindra,2072662.83,,Hyderabad,kavya_singh917@corp.in,8677996882,2025-13-40,2021-06-04,56,34
+CUST0108,Rohan,Jain,Tata Consultancy,1215610.05,IT,Bengaluru,rohan.jain@corp.in,7257735696,20-05-2025,2012-06-13,33,15
+CUST0109,Rahul,Jain,Hero Motocorp,2456345.96,IT,Ahmedabad,rahul.jain@org.in,0924695089,1974-10-16,2016-12-07,56,-1
+CUST0110,,Pillai,Zoho,236026.88,HR,Bengaluru,advait.pillai@example.com,9145981,20250230,2001-04-31,26,6
+CUST0111,Kabir,Tiwari,Zomato,1333200.38,HR,Kolkata,kabir.tiwari@org.in,0918532902,1999-10-07,2024/02/30,-3,-5
+CUST0112,Arjun,Jain,Larsen & Toubro,554574.50,HR,Mumbai,arjun.jain@corp.in,0867748174,1985-09-15,20250230,20,-4
+CUST0113,Ritika,Mishra,BYJU'S,2034395.53,FINANCE,Chennai,,+91 97285-811414,2000-00-10,2019-06-21,29,6
+CUST0114,,Tripathi,Ola Cabs,2659218.35,,Mumbai,kabir.tripathi890@company.co.in,+91 97785-922100,1966-09-18,2018-10-10,21,1
+CUST0115,Amit,Tripathi,,1233772.41,IT,Delhi,amit.tripathi@company.co.in,0897162285,1969-01-07,2007-03-30,137,20
+CUST0116,Arjun,Srivastava,,2612701.78,HR,Chennai,arjun.srivastava144@example.com,7881304118,1967-06-01,2016-11-20,46,18
+CUST0117,Ritika,Tripathi,Swiggy,2632239.06,FINANCE,Chennai,ritika.tripathi164@corp.in,+91-542022725758,"Feb 30, 1990",2018-09-03,20,0
+CUST0118,Ankit,Gupta,Paytm,1212952.76,HR,Bengaluru,ankit.gupta@example.com,0797989477,1998-01-22,2024-04-19,59,16
+CUST0119,Kavya,Tiwari,Mahindra,2095680.06,FINANCE,Hyderabad,kavya.tiwari@company.co.in,+91 76828-133753,1955-11-06,2018-07-22,44,34
+CUST0120,Vihaan,Kapoor,Indian Oil,1447922.43,FINANCE,Kolkata,vihaan_kapoor433@corp.in,6436539,1995-03-21,05/07/2017,49,19
+CUST0121,Anshul,Naik,Zomato,-47308.56,FINANCE,Pune,anshul.naik807@corp.in,5726775,1964-03-06,2007-04-06,-1,-5
+CUST0122,Rohan,Jain,Indian Oil,1430634.41,FINANCE,Hyderabad,rohan_jain@company.co.in,+91-7264913439,1998-08-23,notadate,-4,101
+CUST0123,Aanya,Pillai,Swiggy,1187350.07,HR,Pune,aanya_pillai@corp.in,0818115991,2002-07-05,2021-08-05,63,4
+CUST0124,Manya,Jain,Amazon India,2188618.33,HR,Hyderabad,manya.jain292@org.in,4396836,2003-11-28,13/06/2023,31,13
+CUST0125,Pooja,Singh,Indian Oil,558980.81,IT,Hyderabad,pooja.singh921@mail.com,3329672,1959-07-17,2024/02/30,61,18
+CUST0126,Sonia,Sharma,Paytm,2147263.30,HR,Pune,sonia.sharma@company.co.in,+91 93671-113471,13-2025-01,2009-05-28,137,68
+CUST0127,Advait,Mehta,Bharat Petroleum,560261.51,IT,Hyderabad,advait.mehta130@mail.com,+91-320860360871,1986-05-26,2013-02-02,-8,-2
+CUST0128,Anshul,Sharma,Zomato,2402569.99,FINANCE,Chennai,anshul.sharma@org.in,9230201,1995-06-11,2020-09-14,43,0
+CUST0129,Pooja,Srivastava,BYJU'S,1968541.55,HR,Kolkata,pooja.srivastava@example.com,8584002301,2024/02/30,2023-12-20,35,0
+CUST0130,Dev,Srivastava,Aditya Birla Group,2139610.22,HR,Bengaluru,dev.srivastava@mail.com,+91-682226095830,2000-00-10,20250230,60,28
+CUST0131,Ananya,Mishra,Zomato,500698.25,FINANCE,Chennai,ananya.mishra@company.co.in,2450148,2001-04-31,2025-2-3,28,-3
+CUST0132,Sonia,Tiwari,Zoho,2336614.25,FINANCE,Mumbai,sonia.tiwari793@mail.com,3159801,1987-11-04,2014-08-16,44,8
+CUST0133,Aarav,Pillai,Paytm,754389.56,IT,Chennai,aarav.pillai@example.com,+91-9501512060,1964-06-11,2021-07-15,55,22
+CUST0134,Aarav,Rana,ICICI Bank,1719304.94,IT,Pune,aarav.rana@example.com,5277649,1980-11-07,2025-2-3,31,1
+CUST0135,Sonia,Mehta,Freshworks,2563343.45,IT,Delhi,sonia.mehta@example.com,+91-101417884456,1965-03-26,2017-10-19,41,10
+CUST0136,Anshul,Patel,Mahindra,2660418.97,HR,Kolkata,anshul.patel92@org.in,+91-7348854844,1983-09-29,2023-07-08,70,13
+CUST0137,Kunal,Das,Hero Motocorp,281782.34,HR,Delhi,kunal.das971@example.com,3524262,1983-01-04,2000-00-10,29,31
+CUST0138,Anshul,Rana,Amazon India,1705976.66,FINANCE,Mumbai,anshul.rana89@company.co.in,+91 83218-124051,1958-02-20,2008-04-03,35,-3
+CUST0139,Tarun,Verma,Amazon India,1878950.04,IT,Bengaluru,tarun.verma@example.com,+91-693736607325,1979-09-22,2009-08-26,29,-4
+CUST0140,Kavya,Rawat,Tata Consultancy,943277.68,FINANCE,Kolkata,kavya.rawat@org.in,8483112934,2006-12-22,2024-12-29,63,23
+CUST0141,Kiran,Naik,Zoho,1643406.62,FINANCE,Kolkata,kiran.naik@corp.in,7619498247,1980-01-11,,66,34
+CUST0142,Dev,Rana,HDFC Bank,1430562.48,IT,Pune,dev.rana@corp.in,+91-764731277222,"Feb 30, 1990",2024-05-31,114,109
+CUST0143,Kabir,Pillai,Amazon India,1177793.76,HR,Kolkata,kabir.pillai120@corp.in,0740593520,1983-03-24,2013-02-10,35,3
+CUST0144,Veer,Reddy,Mahindra,1120244.48,FINANCE,Hyderabad,veer_reddy@org.in,8954854761,1983-02-24,2025-03-14,33,2
+CUST0145,Dev,Chopra,Mindtree,1094248.53,IT,Hyderabad,dev.chopra@mail.com,9031056191,2001-04-31,13-2025-01,124,-5
+CUST0146,Rahul,Tripathi,ICICI Bank,333122.03,IT,Mumbai,rahul.tripathi@company.co.in,+91-7257556645,1993-11-25,20-05-2025,118,20
+CUST0147,Dev,Sharma,ICICI Bank,562363.24,HR,Ahmedabad,dev.sharma465@org.in,,1956-05-23,20250230,50,7
+CUST0148,Rohan,Naik,Zomato,2960252.08,FINANCE,Delhi,rohan.naik@mail.com,+91-612650049984,1978-02-26,2015-07-27,58,35
+CUST0149,Akash,Dwivedi,Infosys,2612153.12,HR,Delhi,gwrmi@hvw,+91-539170670368,1995-07-30,2018-11-30,23,1
+CUST0150,Kavya,Ghosh,ICICI Bank,2654474.52,FINANCE,Bengaluru,kavya.ghosh@corp.in,0803207727,1956-04-16,2015-07-09,45,6
+CUST0151,Rohan,Kulkarni,Mahindra,1663019.48,HR,Delhi,uhhke@jqs,+91-7395321033,1996-09-30,notadate,-8,111
+CUST0152,Kiran,Agarwal,Freshworks,788053.70,HR,Bengaluru,kiran.agarwal@org.in,+91-830662617524,1997-05-11,2017-01-09,62,53
+CUST0153,Sneha,Menon,ICICI Bank,2241644.34,HR,Bengaluru,sneha.menon152@example.com,+91-8084056625,1985-08-04,2001-04-31,30,0
+CUST0154,Saanvi,Agarwal,BYJU'S,509007.94,FINANCE,Kolkata,saanvi.agarwal660@corp.in,0829487768,2001-01-21,2022-06-18,38,26
+CUST0155,Meera,Saxena,Larsen & Toubro,-21344.49,HR,Bengaluru,,0711038171,notadate,19/03/2015,62,27
+CUST0156,Ishita,Arora,Tata Consultancy,2569254.14,HR,Pune,ishita_arora@org.in,,1997-08-15,19/09/2019,37,14
+CUST0157,Siddharth,Patel,Wipro,1109447.07,FINANCE,Kolkata,siddharth.patel381@org.in,+91 90771-189200,1980-12-20,2014-12-11,61,25
+CUST0158,Tanvi,Thakur,Mahindra,551870.41,HR,Ahmedabad,tanvi.thakur@example.com,+91-355139679152,2025/15/01,2021-01-03,30,10
+CUST0159,Anshul,Saxena,Swiggy,2505706.78,IT,Delhi,anshul.saxena@org.in,+91 91416-232737,1964-09-01,2013-10-26,55,3
+CUST0160,Veer,Rastogi,Indian Oil,2698059.84,FINANCE,Mumbai,veer.rastogi624@example.com,+91-502351413758,2004-03-15,2022-10-24,52,3
+CUST0161,Manya,Dwivedi,HDFC Bank,858985.53,FINANCE,Bengaluru,manya.dwivedi@corp.in,,1962-03-19,notadate,57,16
+CUST0162,Veer,Das,Tech Mahindra,1001005.30,IT,Bengaluru,veer.das146@example.com,,1970-11-10,23/11/2023,20,1
+CUST0163,Ananya,Jain,Zomato,2233025.75,HR,Mumbai,ananya_jain397@example.com,+91-582573575022,1959-04-29,2016-02-14,35,0
+CUST0164,Arjun,Dwivedi,HDFC Bank,1973472.30,FINANCE,Kolkata,arjun.dwivedi@corp.in,5152988,1999-07-07,2020-03-11,67,58
+CUST0165,Ira,Gupta,Zoho,-36187.31,FINANCE,Ahmedabad,ira.gupta470@company.co.in,0878077594,2003-11-28,2022-12-16,33,0
+CUST0166,Tanvi,Dwivedi,Flipkart,1740685.58,IT,Chennai,ghlnm@ewx,+91-740038865121,1967-03-05,2025-2-3,24,0
+CUST0167,Sonia,Bansal,Reliance Digital,1204652.54,IT,Delhi,uittm@pwc,0949920838,1981-01-08,04/09/2013,62,34
+CUST0168,Vihaan,Pandey,Tech Mahindra,1591615.68,HR,Bengaluru,vihaan.pandey760@corp.in,+91 84857-585664,1972-08-18,2013-09-23,24,1
+CUST0169,Pooja,Bansal,Tech Mahindra,32047746.99,HR,Kolkata,pooja.bansal@corp.in,7663749350,2007-03-06,2025-07-03,61,-3
+CUST0170,,Saxena,Wipro,2939996.63,IT,Ahmedabad,ankit.saxena@org.in,+91 95388-462368,2002-08-22,"Feb 30, 1990",61,-3
+CUST0171,Ankit,Rana,Mindtree,2149684.32,FINANCE,Chennai,ankit.rana965@corp.in,5657261,1970-10-18,2025-2-3,-2,14
+CUST0172,Rohan,Dwivedi,Aditya Birla Group,2546874.58,FINANCE,Kolkata,rohan.dwivedi@example.com,0837941962,1973-07-30,2000-00-10,49,22
+CUST0173,Ritika,,Indian Oil,34614242.22,HR,Ahmedabad,ritika.naik@example.com,+91-803234769414,1971-04-06,2023-10-10,33,6
+CUST0174,Kiran,Bansal,Aditya Birla Group,1664086.13,FINANCE,Ahmedabad,kiran.bansal@example.com,9829028,1980-12-29,"Feb 30, 1990",19,0
+CUST0175,Pooja,Mukherjee,Aditya Birla Group,348501.39,FINANCE,Hyderabad,pooja.mukherjee646@org.in,9405355400,1986-05-18,2025-06-03,60,11
+CUST0176,Sneha,Joshi,Infosys,47758309.68,FINANCE,Mumbai,,8454357151,1975-06-04,2016-08-03,55,37
+CUST0177,Ira,Tripathi,Ola Cabs,10041755.31,IT,Pune,ira.tripathi@org.in,3935644,2000-00-10,2013-10-02,31,12
+CUST0178,Priya,Srivastava,Tata Consultancy,1122682.80,HR,Pune,priya.srivastava@org.in,+91-7851149832,1987-01-29,20250230,-8,-2
+CUST0179,Arjun,Yadav,Larsen & Toubro,378462.99,IT,Ahmedabad,soucv@nrn,+91-7161359743,1956-06-22,2005-05-21,64,47
+CUST0180,Veer,Saxena,BYJU'S,2160103.60,IT,Pune,tldcx@xpv,5202788,1981-04-02,2007-01-28,131,13
+CUST0181,Tarun,Menon,Bharat Petroleum,-14770.70,HR,Kolkata,tarun.menon@corp.in,9557306886,1996-05-13,notadate,-5,30
+CUST0182,Dev,Tiwari,Mindtree,2640247.04,IT,Hyderabad,dev.tiwari437@org.in,7661678822,2025-2-3,2022-06-24,70,46
+CUST0183,Kabir,Tripathi,BYJU'S,1094232.40,HR,Bengaluru,kabir.tripathi@corp.in,+91 95831-371525,1981-07-18,20250230,19,1
+CUST0184,Manya,Das,Tata Consultancy,984710.89,FINANCE,Kolkata,manya.das@example.com,+91-7575102309,1987-12-12,2010-03-06,18,0
+CUST0185,Dev,Mehta,Swiggy,2531616.40,HR,Ahmedabad,dev.mehta543@example.com,0970138560,1976-08-24,2012-08-23,47,2
+CUST0186,Sonia,Das,Mahindra,1804796.49,HR,Bengaluru,sonia.das670@example.com,+91-6063413405,31/31/2020,2009-11-22,63,36
+CUST0187,Ira,Malhotra,Tech Mahindra,2946198.13,IT,Chennai,ira.malhotra@company.co.in,2576107,1994-11-23,20250230,36,12
+CUST0188,Ira,Bansal,Bharat Petroleum,2306186.29,FINANCE,Delhi,ira.bansal@company.co.in,7743975842,2025/15/01,2011-12-09,-9,87
+CUST0189,Aanya,Gupta,Aditya Birla Group,2884776.54,HR,Pune,aanya.gupta@example.com,+91-8308584564,2025-13-40,2020-02-05,47,3
+CUST0190,Manya,Banerjee,Paytm,2377282.70,FINANCE,Hyderabad,manya.banerjee@company.co.in,2494672,1978-04-21,2008-03-06,36,4
+CUST0191,Amit,Joshi,Amazon India,708966.08,IT,Chennai,amit.joshi914@company.co.in,+91 91904-184269,20-05-2025,2022-02-12,68,27
+CUST0192,Siddharth,,Tata Consultancy,1358257.54,HR,Bengaluru,siddharth.sharma@mail.com,+91 88150-909980,1990-10-30,2013-06-29,49,21
+CUST0193,Amit,Pandey,Freshworks,1864695.75,,Pune,amit.pandey@mail.com,+91 99547-669415,20-05-2025,2019-02-18,70,47
+CUST0194,Priya,Mukherjee,Freshworks,1157033.24,HR,Bengaluru,priya.mukherjee577@example.com,+91-115081426474,1960-12-29,2016-08-17,68,48
+CUST0195,Kunal,Dwivedi,Mindtree,2633818.60,IT,Ahmedabad,kunal.dwivedi423@example.com,+91 90512-675260,2007-04-08,2025-05-06,23,9
+CUST0196,Neha,Jain,Zomato,2748411.16,HR,Ahmedabad,neha.jain884@company.co.in,5554247,2003-04-27,2024/02/30,41,12
+CUST0197,Arjun,Bhatia,BYJU'S,1504543.15,,Mumbai,arjun.bhatia@example.com,9240269206,2025/15/01,2017-08-08,29,-5
+CUST0198,Ira,Mukherjee,Wipro,-48203.18,HR,Chennai,ira.mukherjee@example.com,+91-364483346230,1979-10-31,2022-01-07,55,37
+CUST0199,Aaradhya,Dwivedi,Mindtree,509749.53,HR,Chennai,aaradhya.dwivedi@org.in,7651513011,1957-12-12,2020-11-04,54,45
+CUST0200,Priya,Khan,Paytm,1377568.27,HR,Delhi,priya.khan557@company.co.in,+91-206974795795,1963-05-27,2022-09-07,54,55
+CUST0201,Aarav,Tiwari,Ola Cabs,1785001.40,FINANCE,Delhi,aarav.tiwari@company.co.in,8138785204,1957-01-21,2025-13-40,51,3
+CUST0202,Akash,Jain,ICICI Bank,549831.21,IT,Ahmedabad,,1657404,2000-12-20,20-05-2025,68,-5
+CUST0203,Kavya,Joshi,Ola Cabs,1666471.45,HR,Kolkata,kavya.joshi430@mail.com,+91 93032-296044,,2022-11-02,137,26
+CUST0204,Kabir,Verma,Infosys,367108.76,FINANCE,Chennai,kabir_verma@example.com,+91 78031-442665,1962-10-30,20-05-2025,19,0
+CUST0205,Dev,,Freshworks,277086.25,FINANCE,Chennai,dev.saxena568@example.com,+91-7578831329,1970-08-09,2015-06-08,150,37
+CUST0206,Veer,Patel,Bharat Petroleum,1648050.46,HR,Chennai,veer.patel307@corp.in,+91-456825314463,2001-04-31,2013-05-09,33,-5
+CUST0207,Amit,Verma,Zoho,-31900.96,FINANCE,Mumbai,,7059432,20250230,2024/02/30,67,20
+CUST0208,Dev,Joshi,,340828.48,HR,Bengaluru,mgqnv@eed,+91-771599972292,2024/02/30,2025/15/01,24,6
+CUST0209,Kiran,Agarwal,Swiggy,437946.32,HR,Kolkata,kiran.agarwal@mail.com,+91 84685-251746,2000-00-10,2013-04-12,68,19
+CUST0210,Tanvi,Saxena,Freshworks,607700.97,HR,Bengaluru,tanvi_saxena@example.com,,1993-07-19,2013-03-16,40,19
+CUST0211,Ankit,Kulkarni,Ola Cabs,-4103.21,HR,Bengaluru,ankit.kulkarni@mail.com,+91-8446048439,1963-12-25,2008-09-08,46,4
+CUST0212,Manya,Rastogi,Paytm,-10788.38,FINANCE,Kolkata,manya.rastogi@example.com,0890929505,20-05-2025,2025-13-40,-7,34
+CUST0213,Veer,Iyer,Tata Consultancy,2753099.11,IT,Bengaluru,veer.iyer@org.in,8721200682,1966-11-25,2024/02/30,56,28
+CUST0214,Ankit,Sharma,Freshworks,-1987.84,FINANCE,Delhi,ankit.sharma524@mail.com,+91 80308-237183,1988-03-12,2006-11-30,-5,-4
+CUST0215,Ritika,Chaudhary,BYJU'S,1779938.72,FINANCE,Hyderabad,ritika.chaudhary@example.com,+91 88344-999339,1967-11-14,2008-10-01,-7,-1
+CUST0216,Anshul,Menon,Reliance Digital,2246432.65,HR,Pune,anshul.menon@example.com,7326576491,1977-09-03,2025-13-40,31,9
+CUST0217,Pooja,Rawat,PhonePe,818918.11,HR,Chennai,pooja.rawat@company.co.in,0962810689,1997-02-20,2020-11-28,39,5
+CUST0218,Aditya,Pandey,Zoho,403503.17,HR,Mumbai,aditya.pandey329@corp.in,9928015682,1962-07-11,24/01/2009,39,20
+CUST0219,Ritika,Yadav,Tata Consultancy,2233480.71,FINANCE,Pune,ritika.yadav@org.in,0977150423,13-2025-01,2019-08-25,56,25
+CUST0220,Ishaan,Dwivedi,Hero Motocorp,1111077.59,IT,Delhi,ishaan.dwivedi@org.in,+91-484374221020,1969-02-22,2001-04-31,29,0
+CUST0221,Rohan,Jain,Wipro,765189.42,FINANCE,Kolkata,rohan.jain@mail.com,4637417,2024/02/30,26/07/2012,68,29
+CUST0222,Anshul,Pandey,Swiggy,2250631.66,FINANCE,Bengaluru,anshul.pandey973@org.in,+91-446518010538,1974-06-25,2025-2-3,48,11
+CUST0223,Ankit,,HCL Technologies,2664064.68,HR,Kolkata,ymfoi@xzm,0970064137,1967-02-11,2001-04-31,46,-2
+CUST0224,Vivaan,Banerjee,PhonePe,1759370.43,IT,Bengaluru,vivaan.banerjee@company.co.in,+91 95408-347030,1999-06-24,2001-04-31,26,5
+CUST0225,Arjun,Reddy,Ola Cabs,1915389.67,HR,Mumbai,mnjsl@qee,+91-917379975190,2000-03-28,2024-07-06,29,-1
+CUST0226,Aanya,Kaur,Ola Cabs,2527271.85,IT,Chennai,aanya.kaur37@company.co.in,9460144066,1974-02-04,2020-09-25,33,16
+CUST0227,Advait,Bansal,Zomato,2851514.14,HR,Pune,advait.bansal322@corp.in,9311175,1969-08-11,20250230,111,-3
+CUST0228,Dev,Reddy,Zoho,2609398.22,HR,Hyderabad,dev.reddy90@mail.com,9646871522,1980-09-07,2010-01-18,25,5
+CUST0229,Rohan,Iyer,ICICI Bank,1842975.58,IT,Delhi,rohan.iyer786@company.co.in,+91 80377-443727,1987-09-16,2022-04-19,-4,76
+CUST0230,Ira,Jain,Amazon India,-11454.62,FINANCE,Mumbai,hlivu@aoy,+91-530129372138,2002-01-08,2024-08-02,43,21
+CUST0231,Vihaan,Arora,Maruti Suzuki,452656.56,HR,Pune,vihaan.arora@mail.com,0906310861,2025-13-40,31/31/2020,-4,-5
+CUST0232,Kunal,Mukherjee,Mindtree,2954068.11,IT,Mumbai,kunal.mukherjee98@company.co.in,+91 91315-625205,1957-08-08,2001-04-31,56,57
+CUST0233,Tarun,Rastogi,HDFC Bank,1307569.31,IT,Kolkata,tarun.rastogi93@example.com,+91 81461-570278,2005-06-19,2025/15/01,25,3
+CUST0234,Aanya,Menon,Flipkart,209141.63,FINANCE,Hyderabad,aanya.menon@org.in,+91-705493515274,2001-04-31,11/02/2016,24,2
+CUST0235,Aaradhya,Bhatia,Reliance Digital,519469.45,,Hyderabad,aaradhya.bhatia@org.in,9969613058,2024/02/30,20250230,58,15
+CUST0236,Dev,Malhotra,Freshworks,2367814.99,FINANCE,Kolkata,dev_malhotra@corp.in,8141200,1961-01-16,2016-11-18,21,0
+CUST0237,Dev,Gupta,Ola Cabs,1035459.02,FINANCE,Hyderabad,dev.gupta@org.in,,1963-01-22,2010-02-28,64,54
+CUST0238,Riya,Chopra,,450931.65,FINANCE,Hyderabad,riya.chopra690@org.in,4969643,1967-12-24,2023-01-05,19,0
+CUST0239,Advait,,Indian Oil,1813641.30,IT,Bengaluru,qbkcl@xnj,0792023477,1986-06-12,2014-03-18,37,3
+CUST0240,Vivaan,Arora,Indian Oil,2231957.52,IT,Chennai,vivaan.arora@corp.in,9198004389,1971-05-02,2019-10-27,54,-2
+CUST0241,Anshul,Tiwari,Mahindra,-17103.80,HR,Mumbai,anshul.tiwari837@org.in,0842886946,1956-08-17,2020-12-30,45,9
+CUST0242,Diya,Reddy,Maruti Suzuki,1573766.66,FINANCE,Hyderabad,diya.reddy@example.com,8669625434,2025-13-40,2021-08-14,122,78
+CUST0243,Kunal,Mehta,Reliance Digital,409774.93,HR,Hyderabad,,+91-986241993786,1964-12-09,notadate,56,37
+CUST0244,Siddharth,Reddy,Bharat Petroleum,2005721.72,HR,Delhi,siddharth.reddy@company.co.in,7212532596,2007-09-27,2012-05-22,20,2
+CUST0245,,Bhatia,Reliance Digital,324109.16,HR,Kolkata,vihaan.bhatia@corp.in,+91-8600013874,2000-10-10,2023-05-30,101,37
+CUST0246,Diya,Rana,Zomato,1859090.79,HR,Pune,diya_rana@org.in,+91-631393385127,1992-06-13,2020-12-12,126,-5
+CUST0247,Aarav,Rawat,Indian Oil,1529435.00,HR,Chennai,aarav.rawat@corp.in,+91-8558605521,1998-03-05,2025-07-15,21,0
+CUST0248,Aarav,Sharma,Mahindra,2881791.04,HR,Ahmedabad,aarav.sharma961@example.com,+91-425877394955,1967-03-01,20-05-2025,47,19
+CUST0249,Rahul,Malhotra,Hero Motocorp,2866481.19,FINANCE,,rahul.malhotra@company.co.in,2478820,2024/02/30,2013-03-18,24,1
+CUST0250,,Das,,937972.21,HR,Delhi,vljpi@hqn,+91-7557529460,1961-12-16,2016-02-12,125,109
+CUST0251,Saanvi,Agarwal,Swiggy,604147.38,HR,Chennai,saanvi.agarwal@company.co.in,4625701,2025-2-3,2024/02/30,-6,73
+CUST0252,Rahul,Pandey,Bharat Petroleum,-23212.56,HR,Delhi,rahul.pandey@mail.com,+91-9217601392,"Feb 30, 1990",2024-01-13,18,0
+CUST0253,Tarun,Sharma,Mindtree,2472567.51,FINANCE,Delhi,,+91-349662493689,2000-12-22,2024/02/30,43,6
+CUST0254,Manya,Chaudhary,Wipro,2688318.84,FINANCE,Bengaluru,manya_chaudhary960@example.com,0893405611,1969-10-31,2017-04-25,31,9
+CUST0255,Aditya,Rastogi,Mindtree,2755643.67,IT,Ahmedabad,aditya.rastogi188@mail.com,+91-976627984470,1979-04-22,13-2025-01,136,17
+CUST0256,Diya,Dwivedi,Tata Consultancy,852920.04,HR,Pune,diya_dwivedi160@org.in,+91-8058609609,2000-00-10,2019-03-11,22,0
+CUST0257,Kiran,Agarwal,Mahindra,1915982.71,IT,Mumbai,kiran.agarwal782@corp.in,0940384284,2004-01-18,2023-02-11,23,1
+CUST0258,Pooja,Rana,Ola Cabs,617832.16,HR,Ahmedabad,pooja.rana@mail.com,+91 80372-790120,2025-13-40,2013-01-31,-7,8
+CUST0259,Saanvi,Rawat,HDFC Bank,1808106.71,IT,Pune,saanvi.rawat@corp.in,+91-6540477119,2025/15/01,2024-08-23,64,-1
+CUST0260,Dev,Joshi,Tech Mahindra,1252396.92,IT,Chennai,,,1972-08-22,2014-04-17,70,10
+CUST0261,Aarav,Khan,Paytm,730731.31,HR,Hyderabad,aarav.khan@example.com,0791191771,2001-04-31,2022-11-04,-6,118
+CUST0262,Ankit,Saxena,Mahindra,2394959.89,HR,,ankit_saxena@company.co.in,0791273163,1974-11-21,2023-06-06,141,11
+CUST0263,Rohan,Chaudhary,Amazon India,2490496.03,FINANCE,Delhi,rohan.chaudhary261@mail.com,0841055446,13-2025-01,2015-09-07,43,-3
+CUST0264,Aaradhya,Bansal,PhonePe,742685.58,FINANCE,Hyderabad,aaradhya.bansal440@company.co.in,+91-8714752038,1976-11-30,2013-12-27,25,7
+CUST0265,Harshit,Banerjee,Reliance Digital,673543.58,HR,Hyderabad,harshit.banerjee@example.com,+91-673798071635,1974-10-17,2009-08-09,53,13
+CUST0266,Ishaan,Rana,Indian Oil,2325414.15,FINANCE,Bengaluru,ishaan.rana89@example.com,6152827,20-05-2025,2015-11-13,33,3
+CUST0267,Aarav,Pandey,Indian Oil,1243029.33,IT,Mumbai,,4753028,2025-2-3,31/31/2020,70,60
+CUST0268,Rohan,Khan,Larsen & Toubro,328245.92,IT,Pune,rohan.khan@mail.com,+91-6292645193,1964-09-15,2016-09-25,63,23
+CUST0269,Meera,Kaur,Ola Cabs,1753917.71,IT,Hyderabad,meera.kaur@mail.com,0844674776,1963-07-25,2025-13-40,38,18
+CUST0270,Pooja,,HCL Technologies,2533899.13,,Chennai,pooja.pandey874@corp.in,5166611,1969-01-14,2015-04-18,67,45
+CUST0271,Manya,Yadav,Indian Oil,-17475.78,HR,Mumbai,manya.yadav@company.co.in,7090681372,1967-04-13,2015-07-29,30,6
+CUST0272,Advait,Sharma,HCL Technologies,1311464.13,HR,Delhi,advait.sharma718@example.com,+91-7113261200,1998-03-16,2019-06-15,117,41
+CUST0273,Vivaan,Verma,PhonePe,2309403.58,FINANCE,Bengaluru,vivaan.verma@mail.com,+91 88120-777684,1968-04-21,2008-04-19,126,-1
+CUST0274,Anshul,Rawat,,2206399.67,IT,Bengaluru,anshul.rawat327@org.in,+91-301710980733,1999-07-11,notadate,103,-3
+CUST0275,Kunal,Kulkarni,Infosys,1434519.32,HR,Pune,kunal.kulkarni491@org.in,+91 73164-143964,2001-11-06,,69,26
+CUST0276,Kiran,Ghosh,Ola Cabs,2874454.54,IT,Kolkata,kiran.ghosh@mail.com,+91-614065669790,1966-06-13,notadate,102,21
+CUST0277,Vivaan,Das,Hero Motocorp,1810785.15,FINANCE,Chennai,vivaan.das@company.co.in,0805598775,1961-11-01,2025/15/01,38,14
+CUST0278,Amit,Rana,HDFC Bank,2766011.09,FINANCE,Bengaluru,amit.rana646@example.com,6609023,1969-04-29,2009-02-20,40,26
+CUST0279,Amit,Rastogi,Bharat Petroleum,-1933.66,HR,Ahmedabad,krhoa@zbr,+91 89863-794618,1962-07-28,2025-13-40,145,-3
+CUST0280,Sonia,,Flipkart,2584354.33,FINANCE,,sonia.chaudhary@corp.in,+91 97949-443554,2000-00-10,31/31/2020,53,23
+CUST0281,Sonia,Khan,Freshworks,2337566.24,HR,Bengaluru,sonia.khan@example.com,+91 83729-668999,13-2025-01,2024/02/30,67,26
+CUST0282,Sneha,Kaur,Swiggy,324096.06,HR,Bengaluru,sneha.kaur298@example.com,7335368577,2025-2-3,2010-11-05,58,29
+CUST0283,Siddharth,Sharma,Mindtree,2100611.42,FINANCE,Hyderabad,,+91-392908900631,1959-08-23,2008-12-01,27,-1
+CUST0284,Siddharth,Ghosh,Maruti Suzuki,1625241.92,IT,Bengaluru,siddharth.ghosh@example.com,+91-294942141429,1989-07-16,"Feb 30, 1990",65,31
+CUST0285,Ishaan,Kapoor,Zoho,2396535.38,IT,Bengaluru,ishaan.kapoor714@org.in,0852133342,1986-01-02,2008-06-18,47,19
+CUST0286,Meera,Rastogi,Wipro,1820767.76,IT,Mumbai,meera_rastogi@mail.com,+91 78912-380959,20250230,2018-08-05,40,41
+CUST0287,Pooja,Gupta,ICICI Bank,930208.85,IT,Kolkata,pooja.gupta265@example.com,+91-9449946393,1993-09-26,2014-10-23,42,23
+CUST0288,Sonia,Mukherjee,Reliance Digital,829182.29,,Chennai,sonia.mukherjee@corp.in,0769552511,1988-12-25,2021-07-11,62,45
+CUST0289,Sneha,Malhotra,Zomato,1364777.40,FINANCE,Hyderabad,ofxha@gle,+91-7376777728,"Feb 30, 1990",2021-12-28,128,-5
+CUST0290,Vivaan,Pillai,ICICI Bank,942425.02,IT,Hyderabad,vivaan.pillai229@corp.in,+91-919967142202,2001-04-31,31/31/2020,53,10
+CUST0291,Manya,Yadav,HCL Technologies,366857.98,FINANCE,Chennai,manya.yadav@org.in,9471761553,1973-02-27,13-2025-01,135,-2
+CUST0292,Ananya,Rana,Reliance Digital,2203019.86,IT,Chennai,ananya.rana@org.in,7533789,notadate,2021-04-19,34,1
+CUST0293,Ira,Rawat,Tata Consultancy,415901.30,IT,Kolkata,ira.rawat@company.co.in,0902301057,1961-03-03,2020-09-29,-5,11
+CUST0294,Ira,Rana,Reliance Digital,2619056.51,IT,Hyderabad,ira_rana@company.co.in,+91-8941988320,1976-05-09,2019-07-11,40,0
+CUST0295,Manya,,HDFC Bank,1469296.31,IT,Kolkata,manya.malhotra@company.co.in,+91 70377-734363,1981-11-24,2014-11-12,42,9
+CUST0296,,Pandey,Mahindra,1279139.61,HR,Mumbai,vivaan.pandey@org.in,0902408661,1990-05-02,2020-10-23,26,7
+CUST0297,Neha,Arora,Freshworks,2503654.40,IT,Hyderabad,vogcq@wjb,7020592022,1959-02-08,2001-04-31,66,1
+CUST0298,Tanvi,Arora,Indian Oil,2157097.66,IT,Kolkata,tanvi.arora@mail.com,6426767,1960-02-21,20250230,31,12
+CUST0299,Ira,Dwivedi,Amazon India,1607563.97,HR,Mumbai,ira.dwivedi@org.in,9618827,1992-02-20,20-05-2025,39,21
+CUST0300,Meera,Kulkarni,Larsen & Toubro,2049096.03,FINANCE,Mumbai,meera_kulkarni@example.com,8017997374,1994-10-02,2016-05-06,36,27
+CUST0301,Meera,Saxena,HDFC Bank,-31964.16,FINANCE,Kolkata,meera.saxena958@corp.in,+91 72341-742182,2001-04-31,2019-04-01,31,0
+CUST0302,Kunal,Dwivedi,Maruti Suzuki,1826569.28,IT,Chennai,wenvn@mxl,4276070,1990-10-28,2001-04-31,42,1
+CUST0303,Ira,Reddy,Flipkart,2113847.63,HR,Kolkata,ira.reddy@mail.com,0796750913,2003-12-22,2024-07-27,37,13
+CUST0304,Nitin,Gupta,Indian Oil,812908.64,HR,Delhi,nitin.gupta@company.co.in,+91 77079-616965,1988-02-01,2024-04-18,43,21
+CUST0305,Akash,Singh,Amazon India,1483100.56,FINANCE,Kolkata,akash.singh261@org.in,+91-370725059127,1989-02-14,2012-02-25,42,3
+CUST0306,Rohan,Yadav,Swiggy,1331663.89,IT,Bengaluru,rohan.yadav@corp.in,+91-878020815687,1985-06-12,2021-09-27,24,-3
+CUST0307,Rahul,Yadav,Mahindra,1105145.84,FINANCE,Hyderabad,rahul.yadav@company.co.in,,2001-08-13,,29,3
+CUST0308,Siddharth,Mukherjee,Amazon India,31818998.56,HR,Delhi,,7739542281,1973-03-06,2020-02-09,23,3
+CUST0309,Riya,Rana,HCL Technologies,1801207.36,HR,Pune,riya.rana@mail.com,+91-925228666421,1972-09-06,2024-03-07,27,7
+CUST0310,Harshit,Iyer,Swiggy,1342450.61,IT,Delhi,harshit.iyer582@org.in,7331585866,1984-11-24,2000-00-10,47,25
+CUST0311,Kiran,,Zoho,2422476.50,FINANCE,Delhi,kiran.arora@org.in,+91-8550990539,2006-01-24,2024-04-16,-6,-5
+CUST0312,Kunal,Banerjee,Larsen & Toubro,662156.55,HR,Delhi,kunal_banerjee@company.co.in,+91-871118827510,1961-11-20,2025-13-40,59,23
+CUST0313,Meera,Ghosh,BYJU'S,558336.63,FINANCE,Bengaluru,meera.ghosh644@company.co.in,,20-05-2025,2007-08-08,22,2
+CUST0314,Sonia,Bansal,Mindtree,584893.21,HR,Ahmedabad,qousp@ngn,+91-6950179664,2005-06-24,2023-12-17,59,-2
+CUST0315,Ankit,Ghosh,Bharat Petroleum,45521357.48,IT,Mumbai,ankit.ghosh859@company.co.in,9204824518,2000-00-10,2020-10-19,110,103
+CUST0316,,Malhotra,PhonePe,2024968.28,FINANCE,Ahmedabad,dev_malhotra@company.co.in,+91-7594162353,1984-03-21,2005-09-26,34,2
+CUST0317,Kavya,Gupta,Flipkart,802141.83,HR,,kavya.gupta873@mail.com,+91 89791-392454,,2025/15/01,132,62
+CUST0318,Amit,Chopra,Indian Oil,2016204.19,IT,Mumbai,amit.chopra@example.com,0893336769,1986-03-28,2012-05-20,64,62
+CUST0319,Dev,Mehta,Zoho,-43144.18,HR,Chennai,zcrjs@hku,8137428516,1969-08-26,2024-06-08,48,30
+CUST0320,Sonia,Reddy,Zomato,2961643.19,HR,Ahmedabad,sonia.reddy@mail.com,+91 94984-654745,1962-09-08,2001-04-31,-6,7
+CUST0321,Tanvi,Tripathi,HDFC Bank,2030221.16,HR,Kolkata,xhdfv@jii,1619932,1956-02-01,2019-03-28,-1,82
+CUST0322,Diya,Iyer,Infosys,1161836.12,FINANCE,Mumbai,diya.iyer@org.in,0967064644,1963-04-07,2012-09-07,27,-2
+CUST0323,Neha,Reddy,HDFC Bank,1180486.84,HR,Chennai,neha.reddy781@mail.com,0714763795,2004-06-03,2025-06-27,23,0
+CUST0324,,Das,Amazon India,1324687.89,HR,Bengaluru,harshit.das@company.co.in,+91 92711-540435,1979-10-14,notadate,24,-1
+CUST0325,Vihaan,Thakur,Ola Cabs,2058426.05,HR,Chennai,vihaan.thakur@corp.in,+91-395597517440,2005-08-12,2001-04-31,51,30
+CUST0326,Kabir,Bhatia,Flipkart,915131.65,HR,Delhi,kabir.bhatia@org.in,+91 99162-822944,2025-13-40,2025-2-3,60,0
+CUST0327,Rahul,Dwivedi,Zomato,1263621.56,HR,Pune,zqstw@iak,+91-7887398580,20-05-2025,2024/02/30,43,25
+CUST0328,Ananya,Bhatia,Amazon India,2924426.63,IT,Ahmedabad,ntrrl@ujp,+91-479191017175,1970-03-23,2005-09-18,57,17
+CUST0329,Arjun,Agarwal,Aditya Birla Group,1212626.83,HR,Kolkata,arjun.agarwal@corp.in,1340786,2002-05-21,2023-01-03,63,0
+CUST0330,Tanvi,Srivastava,Bharat Petroleum,2503344.85,HR,Chennai,tanvi.srivastava@example.com,+91-9944932759,2002-09-09,2022-03-08,18,0
+CUST0331,Vihaan,Arora,Larsen & Toubro,1644207.80,IT,Kolkata,vihaan.arora@mail.com,+91-840653460828,2003-12-31,2024-06-22,58,3
+CUST0332,Kavya,Mishra,Reliance Digital,504514.22,IT,Chennai,kavya.mishra295@org.in,+91 87837-640819,1959-11-25,2022-02-13,31,3
+CUST0333,Dev,Mukherjee,Wipro,1756907.37,FINANCE,Bengaluru,llnbq@wrn,+91-6168620967,1987-02-18,2024/02/30,-4,-1
+CUST0334,Sneha,Joshi,Aditya Birla Group,2615668.03,FINANCE,Kolkata,sneha.joshi@org.in,0934621782,13-2025-01,,68,55
+CUST0335,Advait,Mishra,Larsen & Toubro,631223.01,HR,Mumbai,advait.mishra544@company.co.in,6102205,1957-07-05,2012-10-22,29,4
+CUST0336,Meera,Patel,PhonePe,-36665.32,HR,Pune,meera.patel731@org.in,6556540,1998-01-11,2021-10-24,56,37
+CUST0337,Dev,Bhatia,Zomato,2161034.14,FINANCE,Ahmedabad,dev_bhatia@mail.com,+91-8677446545,1971-03-16,2006-06-24,35,2
+CUST0338,Manya,Mishra,,1676915.51,IT,Ahmedabad,manya.mishra@mail.com,8038485535,1955-03-13,2021-09-10,69,39
+CUST0339,Ishita,Chaudhary,HCL Technologies,1257861.78,HR,Delhi,ishita.chaudhary944@company.co.in,+91-287570735440,2024/02/30,31/31/2020,56,7
+CUST0340,Ishaan,Sharma,Mahindra,2012552.66,FINANCE,Mumbai,ishaan_sharma@example.com,+91-349087226683,1967-02-11,2005-02-01,49,7
+CUST0341,Kiran,Dwivedi,Amazon India,467583.95,FINANCE,,kiran.dwivedi@company.co.in,+91-6751598466,1990-07-20,2012-12-11,38,24
+CUST0342,Diya,Joshi,Tech Mahindra,2084775.87,HR,,diya.joshi942@corp.in,2170356,2005-05-29,2025-07-24,27,1
+CUST0343,Arjun,Agarwal,Zomato,2386051.81,HR,Chennai,arjun.agarwal708@org.in,0941502944,1979-08-31,2000-00-10,33,6
+CUST0344,Kavya,Tripathi,,377527.57,FINANCE,Mumbai,kavya.tripathi@corp.in,+91-985691289776,2007-07-16,2025-08-17,31,33
+CUST0345,Tarun,Mukherjee,Hero Motocorp,2972810.09,HR,Delhi,tarun.mukherjee@mail.com,+91-438626178366,1984-12-06,2012-07-12,33,-3
+CUST0346,Ritika,Tiwari,Tech Mahindra,1711449.35,IT,Pune,ritika.tiwari@mail.com,0826938091,1993-12-13,13-2025-01,59,-2
+CUST0347,Aditya,Iyer,Infosys,2575440.05,IT,Pune,aditya.iyer@company.co.in,2237614,1972-02-24,2000-00-10,52,33
+CUST0348,Ananya,Bhatia,PhonePe,20808710.96,FINANCE,Delhi,ananya.bhatia742@example.com,0908631702,31/31/2020,2008-12-14,137,82
+CUST0349,Meera,Chopra,HDFC Bank,1352898.76,HR,Hyderabad,meera.chopra@mail.com,7459926,2007-08-29,30/08/2025,24,5
+CUST0350,Dev,Mishra,Reliance Digital,1712646.40,FINANCE,Hyderabad,dev.mishra279@company.co.in,+91 88928-710930,2002-03-25,2022-07-21,26,7
+CUST0351,Aanya,Patel,Amazon India,416444.70,HR,Mumbai,aanya.patel@corp.in,4313144,1986-09-08,21/12/2011,30,1
+CUST0352,Dev,Banerjee,Flipkart,1324403.18,FINANCE,Kolkata,dev_banerjee@company.co.in,3679202,1980-03-03,2001-04-31,42,21
+CUST0353,Anshul,Bansal,HCL Technologies,633077.55,IT,Kolkata,anshul.bansal586@example.com,+91 96612-794542,1967-08-01,2010-05-27,53,38
+CUST0354,Kavya,Tripathi,Larsen & Toubro,2684626.23,HR,Pune,kavya.tripathi@company.co.in,8142284821,1961-06-15,,62,1
+CUST0355,Ira,Saxena,Swiggy,-27278.32,IT,Bengaluru,ira.saxena971@org.in,0859191541,2024/02/30,2014-10-24,128,26
+CUST0356,Meera,Rawat,Paytm,686120.25,HR,Mumbai,khqav@omz,+91-161787161493,1959-07-06,2005-03-11,113,17
+CUST0357,Neha,Yadav,ICICI Bank,48683581.70,FINANCE,Hyderabad,neha.yadav28@corp.in,6647356,1979-05-21,2016-10-26,130,-1
+CUST0358,Aditya,Kaur,ICICI Bank,1260933.01,IT,Pune,aditya.kaur775@mail.com,+91-264590647873,1971-01-08,2019-12-02,42,-2
+CUST0359,Aarav,Kaur,Tech Mahindra,2533493.56,FINANCE,Hyderabad,aarav_kaur113@org.in,0734498073,1976-06-12,2018-12-28,54,10
+CUST0360,Manya,Jain,Tata Consultancy,1357220.71,HR,Bengaluru,manya.jain471@org.in,6477649,1992-02-21,2015-08-23,23,0
+CUST0361,Aarav,Dwivedi,Hero Motocorp,18139549.21,FINANCE,Hyderabad,aarav.dwivedi@corp.in,,1990-08-15,2024-01-13,40,2
+CUST0362,Manya,Sharma,Zoho,223067.82,HR,Delhi,manya.sharma290@org.in,+91-115895159583,1955-05-10,2025-2-3,41,14
+CUST0363,Ira,Das,Tata Consultancy,1484964.05,FINANCE,Pune,ira.das@corp.in,+91-7610686078,1978-10-29,09/04/2014,20,14
+CUST0364,Pooja,Saxena,HDFC Bank,1544479.04,HR,Delhi,pooja.saxena@corp.in,,1999-05-14,,142,-1
+CUST0365,Manya,Chopra,ICICI Bank,1430610.71,FINANCE,Kolkata,,+91-8207381716,"Feb 30, 1990",2012-01-25,-6,43
+CUST0366,Aditya,Agarwal,PhonePe,2527615.72,HR,Pune,aditya.agarwal@corp.in,,1986-01-28,2006-12-17,38,11
+CUST0367,Kavya,Dwivedi,HCL Technologies,1487307.23,HR,Pune,kavya.dwivedi792@company.co.in,+91-825616968167,2000-06-06,2000-00-10,57,32
+CUST0368,Kunal,,Bharat Petroleum,578011.31,HR,Mumbai,,0958347325,1975-01-24,,40,19
+CUST0369,,Khan,Indian Oil,2862740.29,HR,Pune,akash.khan657@org.in,,1979-10-14,2018-08-19,61,7
+CUST0370,Ishaan,Iyer,HDFC Bank,-42794.49,FINANCE,Mumbai,ishaan.iyer@company.co.in,0877746946,2003-01-08,2025-05-21,44,10
+CUST0371,Ishita,Arora,HCL Technologies,2909416.83,IT,Mumbai,ishita.arora@mail.com,0913543854,20250230,2001-04-31,41,2
+CUST0372,Ritika,Naik,Tata Consultancy,507792.69,HR,Pune,ritika.naik@org.in,+91-355710759299,1956-09-05,2025-04-12,33,13
+CUST0373,Kunal,Kaur,HDFC Bank,1357633.21,FINANCE,Pune,,+91-703774451338,1973-04-09,2025/15/01,44,4
+CUST0374,Amit,Kaur,,764950.86,IT,Delhi,amit.kaur37@mail.com,0718880750,13-2025-01,13-2025-01,149,-4
+CUST0375,Amit,Jain,Larsen & Toubro,2279578.72,FINANCE,Ahmedabad,amit.jain@example.com,3709857,1995-10-02,2025-2-3,41,2
+CUST0376,Dev,Saxena,Freshworks,1341389.53,FINANCE,Kolkata,dev.saxena885@example.com,9022774326,2025/15/01,2017-10-08,62,6
+CUST0377,Vivaan,Bhatia,Indian Oil,1427135.41,IT,Pune,lsdyo@qdo,1460014,1976-12-01,2000-00-10,123,-2
+CUST0378,Akash,,Ola Cabs,1950806.81,FINANCE,Kolkata,akash.menon@company.co.in,+91-528734969048,1983-06-22,2024-06-06,53,17
+CUST0379,Kavya,Iyer,HDFC Bank,1503860.31,FINANCE,Kolkata,kavya.iyer@mail.com,+91-350536568862,1960-10-09,2024-07-04,68,25
+CUST0380,Kunal,Pandey,PhonePe,2334031.39,FINANCE,Bengaluru,kunal.pandey@example.com,7909521,2002-05-10,2025-13-40,39,2
+CUST0381,Aditya,Reddy,Aditya Birla Group,1677697.10,HR,Kolkata,,+91-8622645665,,2014-05-11,103,72
+CUST0382,Anshul,Kaur,,1343485.50,HR,Pune,anshul.kaur203@org.in,7615812,,2015-03-03,70,42
+CUST0383,Tarun,Kulkarni,Maruti Suzuki,-35092.35,IT,Kolkata,tarun.kulkarni506@company.co.in,8752554186,2025-13-40,13/09/2021,68,40
+CUST0384,Siddharth,Gupta,Wipro,2800141.82,HR,Ahmedabad,siddharth.gupta293@org.in,,1961-07-25,2000-00-10,62,30
+CUST0385,Priya,Srivastava,,22634233.45,IT,Mumbai,,+91 98825-753440,2025/15/01,2009-06-17,22,2
+CUST0386,Ishita,Singh,Ola Cabs,2805238.61,FINANCE,Mumbai,,7069344372,,2014-06-17,46,-5
+CUST0387,Ankit,Yadav,Maruti Suzuki,1288246.01,FINANCE,Ahmedabad,ankit.yadav@mail.com,+91 73522-164975,1984-04-30,2017-11-27,64,-5
+CUST0388,Diya,Kaur,Mahindra,2137488.82,FINANCE,Pune,,0949189975,1983-10-28,,56,13
+CUST0389,Sonia,Rawat,Amazon India,1840091.33,FINANCE,Delhi,sonia.rawat703@example.com,+91-201573344088,2001-04-31,2025-2-3,22,1
+CUST0390,Ira,Iyer,Larsen & Toubro,1272902.05,IT,Hyderabad,ira.iyer465@company.co.in,+91-7580560001,notadate,2008-01-02,52,25
+CUST0391,Aditya,Malhotra,Bharat Petroleum,2287269.42,HR,Hyderabad,aditya.malhotra@example.com,1205214,1992-08-05,2022-01-11,25,6
+CUST0392,Rahul,Naik,Amazon India,1391405.21,HR,Kolkata,rahul.naik@corp.in,8785708,2001-04-31,2015-04-10,60,14
+CUST0393,Dev,Agarwal,Flipkart,1443327.03,HR,Mumbai,dev.agarwal@corp.in,+91-601456442388,1959-11-24,13-2025-01,26,2
+CUST0394,Aanya,Pandey,Larsen & Toubro,1277108.29,FINANCE,Ahmedabad,aanya.pandey@org.in,7932927,1965-06-02,2006-11-24,25,4
+CUST0395,Ishaan,Naik,Amazon India,1903323.39,FINANCE,Chennai,ishaan.naik568@example.com,8594367711,1997-04-23,2001-04-31,48,26
+CUST0396,Pooja,Verma,Maruti Suzuki,2705551.10,FINANCE,Delhi,pooja.verma@company.co.in,8941536,1958-04-30,11/09/2021,64,-5
+CUST0397,Sonia,Patel,ICICI Bank,769080.31,IT,Chennai,rphsz@qen,8237993414,1997-07-10,2020-12-18,-6,-3
+CUST0398,Sneha,Agarwal,PhonePe,2440870.29,HR,Mumbai,vaoxc@vyc,9718957413,1977-02-18,2022-06-24,20,1
+CUST0399,Ira,Tiwari,HDFC Bank,373449.95,FINANCE,Delhi,ira.tiwari@org.in,+91-8719211122,1985-01-02,"Feb 30, 1990",63,16
+CUST0400,Amit,Das,Aditya Birla Group,-18667.78,FINANCE,,amit.das@example.com,0819942911,1975-11-27,"Feb 30, 1990",54,36
+CUST0401,Kunal,Gupta,ICICI Bank,-11136.87,HR,Chennai,kunal.gupta@company.co.in,,"Feb 30, 1990",2008-10-15,53,30
+CUST0402,Arjun,Jain,Bharat Petroleum,1840521.27,HR,Delhi,gdgvm@roz,0880277191,2024/02/30,2014-05-03,18,0
+CUST0403,Ritika,Joshi,Flipkart,26044953.11,IT,Pune,libef@zft,8478760527,2025-13-40,2025-13-40,51,26
+CUST0404,Ananya,Mehta,,875284.16,HR,Pune,ananya_mehta@example.com,7379737140,1964-08-15,2006-11-27,40,15
+CUST0405,Rahul,Thakur,Indian Oil,333920.41,FINANCE,Mumbai,rahul.thakur@corp.in,+91-7036604784,1991-05-20,2010-11-16,35,16
+CUST0406,Akash,Agarwal,Zoho,1350387.24,HR,Chennai,akash.agarwal497@example.com,7445596777,2003-08-27,2022-01-08,48,12
+CUST0407,Manya,Reddy,Wipro,2438412.16,FINANCE,Mumbai,manya.reddy325@org.in,7662484,1978-11-11,08/05/2006,-7,-1
+CUST0408,Siddharth,Reddy,Wipro,1217884.71,HR,Kolkata,siddharth.reddy760@company.co.in,+91-439241315164,,2014-12-21,37,4
+CUST0409,Kunal,Kaur,Flipkart,2427367.90,HR,Pune,kunal.kaur@example.com,7688845799,1994-09-29,2024/02/30,57,48
+CUST0410,Aditya,Chaudhary,HDFC Bank,978887.31,IT,Chennai,aditya.chaudhary@org.in,0916844625,1985-02-23,2025-2-3,132,-5
+CUST0411,Pooja,Singh,Amazon India,1682717.79,FINANCE,Chennai,pooja.singh953@mail.com,+91 87305-360214,1980-01-02,2008-03-06,51,14
+CUST0412,Ritika,Thakur,,1287825.87,HR,Kolkata,ritika_thakur@company.co.in,5927425,"Feb 30, 1990",2023-07-19,30,12
+CUST0413,Nitin,Srivastava,HDFC Bank,2645018.15,IT,Kolkata,nitin.srivastava918@corp.in,8620542,1957-08-20,2025-13-40,44,21
+CUST0414,Tarun,Tiwari,Mindtree,700566.08,IT,Mumbai,tarun.tiwari396@org.in,0747776137,2004-05-19,2024-10-10,62,56
+CUST0415,Aditya,Yadav,Freshworks,1720192.88,IT,Bengaluru,aditya.yadav@example.com,0906689741,2001-04-31,2025-13-40,-4,96
+CUST0416,Aditya,Arora,Mindtree,355503.65,FINANCE,Delhi,aditya.arora390@mail.com,8867052697,,2013-03-01,70,46
+CUST0417,Aditya,Das,Reliance Digital,2167744.06,FINANCE,Mumbai,aditya.das@company.co.in,7240869668,13-2025-01,2007-11-23,67,41
+CUST0418,Ishaan,Saxena,Indian Oil,1950268.96,FINANCE,Delhi,,7986793676,1997-01-04,2019-10-15,61,15
+CUST0419,Ankit,Rastogi,Mindtree,827373.80,IT,Kolkata,ankit.rastogi20@company.co.in,+91-319779225807,"Feb 30, 1990",31/31/2020,-3,80
+CUST0420,Anshul,Patel,ICICI Bank,717874.32,HR,Kolkata,anshul.patel@example.com,9557881332,1967-01-09,2013-11-20,28,4
+CUST0421,Nitin,Rastogi,Indian Oil,991459.88,HR,Hyderabad,nitin.rastogi428@mail.com,+91 74790-990433,1977-12-15,2018-02-20,70,24
+CUST0422,Meera,Saxena,Amazon India,1347176.21,HR,Ahmedabad,,7578915177,2025-2-3,2023-12-15,-3,92
+CUST0423,Ananya,Singh,Tech Mahindra,457898.82,HR,Mumbai,ananya.singh51@org.in,+91-7845472012,1994-02-27,2025-2-3,24,4
+CUST0424,Anshul,Rana,Paytm,12035199.48,IT,Hyderabad,anshul_rana@org.in,8623465404,1957-09-02,"Feb 30, 1990",33,15
+CUST0425,Saanvi,Srivastava,Indian Oil,2917702.57,IT,Delhi,saanvi.srivastava@example.com,8595345209,1977-12-07,2025-13-40,50,18
+CUST0426,Harshit,Menon,ICICI Bank,2713353.96,HR,Hyderabad,harshit_menon@company.co.in,0818228629,2025-2-3,2025-2-3,69,52
+CUST0427,Aanya,Iyer,Mahindra,990108.83,FINANCE,Bengaluru,aanya.iyer@mail.com,+91 91800-939235,1964-10-27,13-2025-01,19,0
+CUST0428,Aarav,Joshi,Zomato,1944086.19,FINANCE,Pune,aarav.joshi445@example.com,+91 88230-557599,2000-00-10,31/31/2020,67,46
+CUST0429,Sneha,Ghosh,Swiggy,846548.99,IT,Kolkata,sneha.ghosh@mail.com,8910428953,1972-04-30,2014-10-22,46,42
+CUST0430,Dev,Sharma,PhonePe,-28247.49,IT,Ahmedabad,dev.sharma@mail.com,,1957-09-03,2014-01-24,66,19
+CUST0431,Pooja,Thakur,Zomato,1512510.76,FINANCE,Kolkata,pooja.thakur@mail.com,9462618323,2001-04-31,2025-13-40,37,-4
+CUST0432,Vihaan,Pandey,Amazon India,475573.12,FINANCE,Bengaluru,,9434314,2006-12-09,2024/02/30,-9,26
+CUST0433,Priya,Dwivedi,HCL Technologies,621722.67,IT,Pune,priya.dwivedi175@corp.in,0816958481,2000-00-10,20250230,21,3
+CUST0434,Ankit,Kapoor,Tech Mahindra,1360209.55,FINANCE,Kolkata,ankit.kapoor@org.in,0957005322,31/31/2020,2016-05-27,50,32
+CUST0435,Saanvi,Kulkarni,Paytm,611086.00,IT,Chennai,saanvi.kulkarni@org.in,0879502484,1990-04-20,2018-07-19,29,3
+CUST0436,Tanvi,Mehta,HDFC Bank,1185475.33,IT,Delhi,tanvi.mehta761@mail.com,+91-7316374485,1992-12-04,2024-12-27,32,3
+CUST0437,Ishita,Jain,Reliance Digital,2928779.16,FINANCE,Mumbai,,+91 85471-785443,1965-12-24,2012-01-26,127,30
+CUST0438,Priya,Joshi,Zoho,2635387.63,HR,,priya_joshi287@example.com,+91-8964085015,2004-02-20,2025-08-08,64,26
+CUST0439,Neha,Menon,ICICI Bank,1868836.59,IT,Ahmedabad,neha.menon525@company.co.in,+91-945689635422,1970-03-05,2025-2-3,59,58
+CUST0440,Aarav,Kulkarni,Aditya Birla Group,425089.15,FINANCE,Kolkata,aarav.kulkarni@mail.com,0829125947,1989-04-16,2013-09-14,70,29
+CUST0441,Kunal,Kaur,Maruti Suzuki,1054493.84,IT,Hyderabad,kunal.kaur370@example.com,+91 79581-580732,1970-07-02,2007-01-03,46,22
+CUST0442,Meera,,Amazon India,684834.78,HR,Hyderabad,,8676685357,2003-04-24,2021-04-21,33,8
+CUST0443,Vivaan,Das,Aditya Birla Group,660736.09,HR,Hyderabad,vivaan.das@corp.in,+91 80507-677179,1968-04-17,2007-01-16,39,5
+CUST0444,Tanvi,Pandey,BYJU'S,2005886.60,FINANCE,Chennai,tanvi.pandey166@corp.in,9594699,2024/02/30,2008-10-28,35,10
+CUST0445,Akash,Pillai,Paytm,1872106.52,IT,Mumbai,zhqcu@nni,0882530854,2025-13-40,2005-01-17,70,23
+CUST0446,Manya,Agarwal,Swiggy,2243858.58,FINANCE,Delhi,manya.agarwal816@org.in,8560340,2025-13-40,2001-04-31,63,46
+CUST0447,Manya,Kaur,Maruti Suzuki,1239574.63,FINANCE,Pune,manya.kaur849@mail.com,7372945656,1987-08-05,,64,7
+CUST0448,Ananya,Rawat,Swiggy,1325593.47,HR,Kolkata,ananya.rawat523@org.in,+91 91002-391527,1955-04-26,2017-03-23,101,101
+CUST0449,Aaradhya,Rana,Infosys,996340.96,FINANCE,Pune,aaradhya.rana931@org.in,8306572868,2006-07-12,20250230,70,65
+CUST0450,Harshit,Rana,Flipkart,1587980.07,IT,Ahmedabad,,+91-889016420479,2001-02-16,2024/02/30,43,27
+CUST0451,Kiran,Ghosh,Bharat Petroleum,322219.97,FINANCE,Bengaluru,kiran.ghosh@mail.com,0853346903,2003-10-19,"Feb 30, 1990",43,18
+CUST0452,Saanvi,Agarwal,Amazon India,2491161.88,FINANCE,Kolkata,saanvi.agarwal@org.in,7927294514,1980-06-02,2013-10-23,61,26
+CUST0453,Tarun,,Indian Oil,1828190.40,,Ahmedabad,tarun.iyer@example.com,0774026144,"Feb 30, 1990",2011-06-12,64,40
+CUST0454,Aarav,Srivastava,Mindtree,38466473.42,FINANCE,Mumbai,aarav.srivastava@company.co.in,+91-709618115372,2006-08-19,2025-05-26,30,16
+CUST0455,Tarun,Agarwal,Mahindra,213259.02,FINANCE,Mumbai,tarun.agarwal@org.in,9030844,1966-06-10,2014-09-04,62,45
+CUST0456,Nitin,Chaudhary,Tech Mahindra,1269084.48,FINANCE,Chennai,nitin.chaudhary421@company.co.in,,20250230,20250230,21,3
+CUST0457,Kabir,Pillai,,694849.61,IT,Bengaluru,kabir.pillai@org.in,+91 92882-965766,1996-08-01,2017-03-31,-3,5
+CUST0458,Aaradhya,Saxena,Mahindra,17933487.49,HR,Bengaluru,aaradhya.saxena@mail.com,9139491155,2024/02/30,2011-05-22,67,57
+CUST0459,,Mehta,Indian Oil,253520.56,FINANCE,Mumbai,tarun_mehta14@mail.com,0844562917,1989-03-09,2001-04-31,24,1
+CUST0460,Akash,Pillai,Mindtree,1056108.78,HR,Chennai,akash.pillai773@company.co.in,4680233,13-2025-01,2006-07-11,42,9
+CUST0461,Akash,Naik,Aditya Birla Group,1267514.23,IT,Delhi,akash.naik@org.in,9774791626,2025/15/01,2015-04-14,42,21
+CUST0462,Vihaan,Agarwal,Bharat Petroleum,1713943.58,HR,Mumbai,vihaan.agarwal@corp.in,+91-536030312023,1970-12-17,2016-02-26,46,11
+CUST0463,Saanvi,Verma,Swiggy,2037390.38,FINANCE,Mumbai,saanvi.verma@example.com,+91 97678-693307,1999-10-09,2022-12-09,147,61
+CUST0464,Kabir,Iyer,HCL Technologies,1475472.32,FINANCE,Mumbai,aifla@ksa,,1992-07-22,2023-12-26,50,13
+CUST0465,Akash,,BYJU'S,2419831.47,FINANCE,Chennai,akash.bhatia@corp.in,+91 97727-244041,1974-01-29,2011-06-28,19,-4
+CUST0466,Aaradhya,Kapoor,HDFC Bank,2426834.91,IT,Bengaluru,aaradhya_kapoor@company.co.in,2565600,"Feb 30, 1990",2017-04-07,50,21
+CUST0467,Ritika,Tripathi,ICICI Bank,-33674.73,HR,Bengaluru,ritika.tripathi@corp.in,+91-577711050065,1978-10-02,06/03/2016,144,-3
+CUST0468,Aarav,Jain,Tata Consultancy,1530358.52,IT,Mumbai,aarav.jain@mail.com,+91-6179831100,2005-03-07,2025-13-40,36,-1
+CUST0469,Tanvi,Chaudhary,Tata Consultancy,1882499.57,IT,Delhi,,2272821,20250230,13-2025-01,52,25
+CUST0470,,Banerjee,Infosys,574239.72,IT,Delhi,manya_banerjee242@corp.in,0720828404,2025-2-3,2024-02-06,28,8
+CUST0471,Riya,Mukherjee,Wipro,1914892.30,HR,Mumbai,riya.mukherjee58@company.co.in,9679434560,1969-10-16,2009-06-19,18,0
+CUST0472,Tarun,Singh,Paytm,2368485.05,,Ahmedabad,tarun.singh@org.in,+91-916729403319,20250230,2010-01-07,-6,-2
+CUST0473,Sneha,Patel,Mindtree,202000.51,FINANCE,Hyderabad,sneha.patel@corp.in,+91-9446713123,1967-09-27,"Feb 30, 1990",30,4
+CUST0474,Aditya,Iyer,BYJU'S,31892231.64,IT,Kolkata,aditya.iyer@example.com,9928099827,2003-12-04,2022-08-01,49,40
+CUST0475,Aditya,Khan,Swiggy,1978973.33,FINANCE,Delhi,aditya.khan@company.co.in,2524919,2006-11-16,04/08/2025,38,17
+CUST0476,Vivaan,Gupta,Indian Oil,-23539.87,FINANCE,Kolkata,vivaan.gupta@example.com,0843507543,1997-01-12,2025-02-26,42,1
+CUST0477,Veer,Gupta,,2457063.12,FINANCE,Ahmedabad,icjdo@lzk,7694526726,1984-04-02,2019-06-27,114,80
+CUST0478,Sonia,Iyer,Amazon India,335167.81,FINANCE,Hyderabad,sonia.iyer842@corp.in,,1975-08-20,2005-03-26,54,20
+CUST0479,Ishita,Pandey,,1236496.75,FINANCE,Bengaluru,ishita.pandey@company.co.in,+91-620696084234,1979-09-26,2019-11-26,39,30
+CUST0480,Tanvi,Gupta,Zoho,1586781.76,HR,Chennai,tanvi.gupta@company.co.in,9449402,notadate,2010-07-03,139,-4
+CUST0481,Kabir,Pillai,BYJU'S,2943626.78,HR,Hyderabad,uvowj@aic,8495651016,1976-12-23,,39,18
+CUST0482,Amit,Saxena,Zomato,1606502.17,FINANCE,Ahmedabad,amit.saxena@example.com,7276096844,1979-04-07,2009-12-21,48,15
+CUST0483,Ira,Kulkarni,PhonePe,978663.58,FINANCE,Delhi,ira.kulkarni@org.in,+91-7363473740,1971-01-02,2023-03-28,119,60
+CUST0484,Meera,Bansal,Zoho,2448755.03,HR,Hyderabad,phgrz@xfi,2856673,1984-07-22,2017-12-10,112,79
+CUST0485,Harshit,Tripathi,Larsen & Toubro,267678.16,,Bengaluru,,3409856,1995-10-11,notadate,57,15
+CUST0486,Advait,Mehta,Zoho,1427187.14,HR,Mumbai,advait.mehta@org.in,+91 81359-704712,13-2025-01,20250230,56,2
+CUST0487,Rohan,Mukherjee,Indian Oil,2907451.64,FINANCE,Pune,rohan_mukherjee481@corp.in,+91-9387573076,1958-06-13,2025/15/01,31,8
+CUST0488,Ishita,Banerjee,,639308.45,FINANCE,Ahmedabad,ishita.banerjee@company.co.in,0958400508,1973-12-27,2005-01-23,51,3
+CUST0489,Riya,Kulkarni,Swiggy,301264.33,IT,Kolkata,riya.kulkarni@company.co.in,+91-6921760178,1970-05-02,13-2025-01,55,7
+CUST0490,Diya,Jain,HCL Technologies,1044594.56,IT,Bengaluru,diya_jain304@org.in,+91 72371-918230,1982-01-14,2016-10-04,39,0
+CUST0491,Arjun,Malhotra,Mindtree,808682.73,IT,Pune,arjun.malhotra@mail.com,,1992-01-26,2020-07-07,68,35
+CUST0492,Tanvi,Arora,Indian Oil,1512606.69,FINANCE,Kolkata,tanvi.arora508@company.co.in,0775850706,1975-02-10,"Feb 30, 1990",25,2
+CUST0493,Dev,Pillai,Indian Oil,966240.24,HR,Pune,dev.pillai@corp.in,+91 76740-278797,1999-11-26,2024/02/30,45,19
+CUST0494,Kiran,Ghosh,Aditya Birla Group,2847277.70,IT,Mumbai,kiran.ghosh638@corp.in,3717797,2003-10-26,2023-10-01,26,0
+CUST0495,Ishaan,Tripathi,Ola Cabs,1730577.73,FINANCE,Pune,ishaan.tripathi@mail.com,7548046561,2001-04-08,2020-03-03,69,42
+CUST0496,Kunal,Iyer,Mindtree,740583.90,HR,Kolkata,kunal.iyer@company.co.in,+91-119395234060,20-05-2025,notadate,42,16
+CUST0497,Kunal,Verma,Indian Oil,1985953.73,FINANCE,Hyderabad,kunal.verma140@mail.com,+91-606586404366,1986-02-03,2021-10-23,24,4
+CUST0498,Aarav,Sharma,Mahindra,2968725.78,FINANCE,Hyderabad,,3890578,2004-03-21,23/12/2022,-9,111
+CUST0499,Harshit,Banerjee,,1958666.22,IT,Hyderabad,harshit.banerjee@example.com,+91-9944960267,1980-03-05,2025-13-40,18,0
+CUST0500,Harshit,Mehta,Aditya Birla Group,852020.97,IT,Pune,harshit.mehta@corp.in,2975280,1959-08-13,2024/02/30,22,2
+CUST0501,,Arora,Aditya Birla Group,1091915.20,FINANCE,Ahmedabad,zkisx@mxq,5618863,1974-02-17,2016-06-20,127,10
+CUST0502,Akash,Mukherjee,Swiggy,2538182.97,FINANCE,Hyderabad,akash.mukherjee855@corp.in,+91-8910228663,1993-10-28,2000-00-10,-5,10
+CUST0503,Rahul,Bansal,Infosys,41545694.45,FINANCE,Delhi,kigjj@znv,+91-619798544784,"Feb 30, 1990",2017-09-18,44,12
+CUST0504,Veer,,Wipro,863587.71,HR,Mumbai,veer.das535@corp.in,0745265283,1966-09-11,2021-12-31,18,0
+CUST0505,Veer,,HDFC Bank,2836585.05,HR,Mumbai,veer.bhatia@company.co.in,+91-947273555848,2000-00-10,2023-03-27,29,9
+CUST0506,Anshul,Chopra,Maruti Suzuki,1216822.97,FINANCE,Chennai,anshul.chopra889@example.com,+91-938458693661,1992-05-29,2023-03-23,32,3
+CUST0507,Veer,Chaudhary,HCL Technologies,1067804.98,FINANCE,Mumbai,veer.chaudhary259@mail.com,9527319,2001-04-31,2024-05-26,33,10
+CUST0508,Advait,Thakur,Indian Oil,1618195.74,IT,Hyderabad,advait.thakur875@company.co.in,0827869410,31/31/2020,13-2025-01,37,7
+CUST0509,Manya,Yadav,Reliance Digital,25092094.79,IT,Bengaluru,,0933458150,1960-03-01,2000-00-10,50,22
+CUST0510,Amit,Naik,Mahindra,2641850.65,FINANCE,Delhi,amit.naik896@company.co.in,0800509941,1981-04-16,"Feb 30, 1990",-10,94
+CUST0511,Harshit,Tiwari,HDFC Bank,2825731.70,FINANCE,Mumbai,harshit.tiwari349@mail.com,+91-558662151791,1969-10-04,20-05-2025,38,2
+CUST0512,Anshul,Rana,,1430811.60,FINANCE,Bengaluru,anshul.rana@mail.com,+91-8987085467,notadate,2010-02-11,37,1
+CUST0513,Ishita,Kaur,Zomato,2616273.95,IT,Hyderabad,ishita.kaur@org.in,9548614571,1996-01-04,2018-01-09,18,-1
+CUST0514,Ankit,Chaudhary,PhonePe,2566723.50,FINANCE,Pune,ankit.chaudhary@mail.com,+91-673865809841,1973-05-26,"Feb 30, 1990",39,-5
+CUST0515,Ishaan,Dwivedi,Mahindra,1714930.68,IT,Kolkata,ishaan.dwivedi766@example.com,+91-9406056427,1992-03-29,2018-05-10,-6,24
+CUST0516,Aditya,Chopra,Mindtree,773065.42,FINANCE,Mumbai,aditya.chopra@company.co.in,+91-9792469218,1975-05-27,2007-07-09,-6,64
+CUST0517,Kavya,Rawat,Paytm,1749971.17,HR,Delhi,kavya.rawat@company.co.in,+91 75911-625293,2001-04-31,2025-05-29,110,16
+CUST0518,Sneha,Rawat,Ola Cabs,1614235.19,IT,,sneha.rawat11@company.co.in,0999564605,31/31/2020,2000-00-10,30,-3
+CUST0519,Ananya,Mukherjee,PhonePe,1607139.68,FINANCE,Ahmedabad,ananya.mukherjee@org.in,8949525916,1968-07-01,2017-11-02,-9,40
+CUST0520,Aarav,Arora,Larsen & Toubro,1994915.11,IT,Pune,aarav.arora906@company.co.in,+91 94252-566838,notadate,2010-02-25,59,-1
+CUST0521,Sneha,Thakur,BYJU'S,1785638.82,FINANCE,Chennai,adwem@gpa,+91-9429221777,2006-12-10,,55,28
+CUST0522,Arjun,Tiwari,HDFC Bank,483495.56,HR,Mumbai,,+91-608100015029,2002-07-26,13-2025-01,44,12
+CUST0523,Ritika,Bansal,HCL Technologies,2876054.49,IT,,ritika.bansal@org.in,7910036387,2025-2-3,2013-02-17,58,33
+CUST0524,,Joshi,Tech Mahindra,1751935.35,IT,Bengaluru,,+91-850950442161,1961-09-22,,119,62
+CUST0525,Harshit,Verma,Flipkart,307702.79,IT,Mumbai,harshit_verma@org.in,+91-467038196474,2024/02/30,2024-06-18,118,86
+CUST0526,Aaradhya,Rastogi,Bharat Petroleum,2178220.40,FINANCE,Kolkata,aaradhya.rastogi@mail.com,+91-9297521199,1962-04-27,2024-05-22,48,12
+CUST0527,Sneha,Banerjee,ICICI Bank,2637234.81,FINANCE,Mumbai,sneha.banerjee334@example.com,8218563845,1977-03-03,31/31/2020,62,45
+CUST0528,Arjun,Gupta,Tata Consultancy,2782856.31,IT,Pune,arjun_gupta417@corp.in,0892349083,20-05-2025,2020-09-08,41,4
+CUST0529,Riya,Rana,Maruti Suzuki,353632.30,IT,Kolkata,riya.rana@org.in,0914625684,1969-03-13,2000-00-10,-8,120
+CUST0530,,Verma,Zomato,1210859.56,IT,Bengaluru,advait.verma@company.co.in,+91 86034-925599,2000-00-10,2025-2-3,60,34
+CUST0531,Pooja,Chaudhary,,2213556.96,HR,Pune,pooja_chaudhary@example.com,0937962107,2000-00-10,2019-08-18,107,22
+CUST0532,Harshit,Tripathi,Indian Oil,815479.44,HR,Bengaluru,jjekh@oel,+91-8579556913,2001-04-31,20250230,70,7
+CUST0533,Kabir,Pillai,ICICI Bank,1091459.77,HR,Kolkata,kabir.pillai@corp.in,+91-7708372050,1968-05-21,2007-04-25,29,7
+CUST0534,Kiran,Tiwari,HCL Technologies,368516.55,HR,Kolkata,,+91 90969-719927,1994-12-12,notadate,-8,116
+CUST0535,Kiran,Sharma,HCL Technologies,2387912.79,IT,Bengaluru,kiran.sharma@example.com,+91 86259-910344,1988-07-22,2008-01-30,32,11
+CUST0536,Nitin,Singh,Reliance Digital,1354529.90,FINANCE,Mumbai,nitin.singh@org.in,+91-7019563439,1973-08-26,2023-05-15,35,2
+CUST0537,Veer,Kaur,Amazon India,398670.44,FINANCE,Kolkata,veer.kaur@org.in,5971886,20250230,2019-03-30,139,-1
+CUST0538,Vivaan,Yadav,Swiggy,1400161.65,HR,Ahmedabad,vivaan.yadav@example.com,1339404,1963-05-13,2007-07-24,58,28
+CUST0539,Diya,Chopra,HDFC Bank,1079255.90,HR,Mumbai,jmodt@pxl,0751447961,1989-05-08,03/06/2010,138,82
+CUST0540,Kavya,Saxena,Zomato,11386564.20,FINANCE,Mumbai,kavya.saxena@company.co.in,+91 72738-560304,2000-07-08,,39,13
+CUST0541,Akash,Tripathi,Maruti Suzuki,951796.47,FINANCE,Delhi,akash.tripathi143@company.co.in,0761760858,2001-04-31,13-2025-01,-1,69
+CUST0542,Riya,Rawat,Aditya Birla Group,-45848.43,HR,,riya.rawat@org.in,0848311256,1966-12-27,20250230,20,1
+CUST0543,Rohan,Das,Indian Oil,2512112.53,IT,Ahmedabad,rohan.das980@mail.com,0850853159,1991-11-30,,19,1
+CUST0544,Ananya,Srivastava,ICICI Bank,1967579.44,IT,Ahmedabad,ananya.srivastava@example.com,,1958-09-03,13-2025-01,50,30
+CUST0545,Manya,Sharma,Swiggy,556902.03,IT,Mumbai,manya_sharma@org.in,+91-7206771845,1998-04-19,20-05-2025,-5,-1
+CUST0546,Ira,Chopra,Maruti Suzuki,1598819.21,IT,Chennai,ira.chopra@mail.com,9677830,notadate,2024/02/30,25,2
+CUST0547,Meera,Rana,Aditya Birla Group,836348.90,HR,Delhi,meera.rana171@mail.com,7035321,1966-09-06,2013-11-15,48,15
+CUST0548,Dev,Tiwari,Larsen & Toubro,484468.72,HR,Delhi,dev.tiwari310@org.in,+91 99581-384180,1980-09-25,2024/02/30,49,25
+CUST0549,Ishaan,Dwivedi,Larsen & Toubro,2576057.80,HR,Pune,,+91-6626762546,1960-11-08,2017-09-23,56,8
+CUST0550,Pooja,Mehta,BYJU'S,1827613.46,FINANCE,Mumbai,pooja.mehta@company.co.in,0829235290,1965-06-20,"Feb 30, 1990",49,1
+CUST0551,Ankit,Chaudhary,Wipro,2056866.46,IT,Mumbai,ankit_chaudhary603@company.co.in,+91 94351-634023,2001-04-31,11/09/2020,20,21
+CUST0552,Ritika,Naik,Mahindra,33298064.12,HR,Pune,ritika.naik@corp.in,3705859,2025-13-40,2010-06-02,113,96
+CUST0553,Manya,Sharma,Tech Mahindra,2827606.97,IT,Bengaluru,manya.sharma@example.com,+91 93557-353049,1996-06-05,2020-06-23,18,0
+CUST0554,Saanvi,Tripathi,Zomato,2018496.28,HR,Delhi,saanvi.tripathi867@mail.com,+91-9598809902,2024/02/30,2024-10-25,18,0
+CUST0555,Ritika,Tripathi,Infosys,1152936.97,FINANCE,Delhi,,9622821,2025/15/01,2015-07-09,68,26
+CUST0556,Sneha,Thakur,Wipro,1219054.29,FINANCE,Chennai,,9179421337,1963-04-11,2010-06-14,-8,47
+CUST0557,Amit,Patel,Reliance Digital,2883348.18,HR,Chennai,amit_patel803@org.in,+91 86355-237648,1963-07-27,2021-07-03,18,1
+CUST0558,Aarav,Bhatia,Bharat Petroleum,221281.01,HR,Chennai,aarav_bhatia@mail.com,0836726265,2025-2-3,2008-08-09,43,22
+CUST0559,Anshul,Chopra,BYJU'S,2385527.26,HR,Chennai,anshul.chopra931@company.co.in,,1965-10-14,22/11/2017,27,6
+CUST0560,Arjun,Chopra,Tech Mahindra,2086089.68,IT,Bengaluru,arjun.chopra@mail.com,9895191610,1974-02-28,notadate,51,18
+CUST0561,Vivaan,Chopra,Reliance Digital,2672450.99,HR,Delhi,vivaan_chopra771@org.in,9294417932,1971-09-22,2024-10-23,112,-5
+CUST0562,Harshit,Gupta,Mahindra,1042455.02,IT,Kolkata,harshit.gupta@example.com,+91-586927553700,1990-08-25,2020-01-17,53,2
+CUST0563,Sneha,Yadav,Hero Motocorp,2147913.86,IT,Ahmedabad,sneha.yadav@corp.in,7650663,1988-02-21,2025-2-3,20,2
+CUST0564,Kavya,Menon,Amazon India,305011.93,IT,Kolkata,kavya.menon@corp.in,,2025/15/01,2008-02-20,19,0
+CUST0565,Neha,Mishra,Bharat Petroleum,466493.86,FINANCE,Chennai,neha_mishra@corp.in,+91-986459664557,1977-11-11,2013-02-09,63,5
+CUST0566,Sonia,,Infosys,2547161.36,HR,Delhi,sonia.menon@example.com,+91 80086-594923,1967-04-17,2021-11-16,-7,9
+CUST0567,Ritika,Khan,Zoho,-20663.99,HR,,ritika.khan508@company.co.in,+91-833952523214,1959-04-12,2008-02-05,58,50
+CUST0568,Kavya,Sharma,Larsen & Toubro,2537470.02,IT,Chennai,kavya.sharma126@mail.com,0796059795,2004-08-17,2025-13-40,63,14
+CUST0569,Saanvi,Bhatia,BYJU'S,2929148.38,HR,Bengaluru,saanvi_bhatia@corp.in,,1995-07-18,2023-08-20,49,12
+CUST0570,Ankit,Mishra,Swiggy,273548.87,HR,Pune,ankit.mishra978@org.in,+91 93730-737260,1970-07-23,2014-04-12,27,2
+CUST0571,,Arora,Aditya Birla Group,1870973.80,HR,Kolkata,jacmp@qpa,0902069893,1974-12-01,2007-09-27,-4,8
+CUST0572,Kavya,Saxena,ICICI Bank,2668620.12,IT,Ahmedabad,kavya.saxena@corp.in,+91-912562952481,1961-09-23,2025-2-3,-5,71
+CUST0573,Neha,Chopra,Paytm,1355508.25,,Kolkata,neha.chopra586@company.co.in,8110358,1997-07-31,2024-04-23,69,14
+CUST0574,Kabir,Thakur,Reliance Digital,1800820.68,IT,Pune,kabir.thakur@corp.in,,1981-08-21,2018-05-26,143,72
+CUST0575,Rohan,Saxena,Maruti Suzuki,776824.31,FINANCE,Mumbai,rohan.saxena211@mail.com,+91 84621-930175,1974-02-12,2020-01-24,45,38
+CUST0576,Aanya,Dwivedi,ICICI Bank,342045.96,IT,Chennai,aanya.dwivedi@example.com,7302163672,1987-12-27,2018-03-29,148,-5
+CUST0577,Vivaan,Pillai,Indian Oil,-2269.16,IT,Mumbai,vivaan.pillai61@org.in,,notadate,2015-10-06,67,11
+CUST0578,Sonia,Dwivedi,Wipro,2475429.49,FINANCE,Kolkata,sonia.dwivedi@org.in,0912348662,31/31/2020,2008-09-24,53,17
+CUST0579,Ishaan,Menon,PhonePe,2200543.19,IT,Delhi,ishaan.menon162@org.in,0922394911,2025/15/01,21/01/2012,64,-3
+CUST0580,,Sharma,Bharat Petroleum,2393822.45,HR,Pune,saanvi.sharma56@corp.in,+91-704807216120,2025/15/01,2021-11-25,-5,106
+CUST0581,Siddharth,Iyer,ICICI Bank,2368779.11,HR,,siddharth.iyer@company.co.in,+91-765728662591,1993-03-25,2015-12-02,127,120
+CUST0582,Diya,Iyer,Infosys,1268928.90,FINANCE,Bengaluru,diya.iyer329@example.com,2710469,20250230,15/09/2017,21,1
+CUST0583,Harshit,Rastogi,Flipkart,2013215.79,,Kolkata,harshit.rastogi@company.co.in,0898913877,31/31/2020,2012-12-05,20,1
+CUST0584,Veer,Khan,Aditya Birla Group,305569.48,FINANCE,Delhi,veer.khan85@company.co.in,2130814,13-2025-01,2017-08-08,-5,49
+CUST0585,Veer,Tiwari,Zomato,2815723.07,HR,Delhi,veer.tiwari@mail.com,+91 89907-444494,1959-07-19,31/31/2020,28,10
+CUST0586,Kiran,Iyer,Infosys,1312766.21,,Hyderabad,kiran.iyer23@mail.com,3986856,1996-05-29,2023-05-20,-9,93
+CUST0587,Rahul,Arora,HDFC Bank,1393533.48,HR,Mumbai,rahul.arora@corp.in,5502984,1961-06-14,31/31/2020,-10,30
+CUST0588,Meera,Das,PhonePe,242488.46,IT,Mumbai,meera.das313@corp.in,+91-408710006449,1982-10-31,2018-04-13,25,2
+CUST0589,Rahul,Arora,Wipro,1888841.74,HR,,rahul.arora@corp.in,+91-523143034889,notadate,2021-04-09,33,14
+CUST0590,Advait,Kaur,Amazon India,-2212.35,HR,Ahmedabad,advait.kaur563@corp.in,+91 84481-633372,1986-02-26,2007-02-27,57,17
+CUST0591,Ishita,Reddy,Reliance Digital,417833.99,IT,Chennai,ishita.reddy@corp.in,+91 83729-272071,1980-01-26,31/31/2020,28,-5
+CUST0592,Tanvi,Gupta,Hero Motocorp,1206098.82,,Bengaluru,tanvi.gupta@org.in,+91-997037121628,1995-06-20,2022-07-27,20,15
+CUST0593,Meera,Banerjee,ICICI Bank,1976646.55,FINANCE,Mumbai,meera.banerjee@example.com,+91-208464061787,1987-07-05,2006-08-26,26,2
+CUST0594,Siddharth,Das,Indian Oil,1332400.46,IT,Delhi,siddharth.das@company.co.in,+91 87519-690808,13-2025-01,2010-01-05,69,8
+CUST0595,Ankit,Khan,Swiggy,1515347.64,HR,Ahmedabad,ankit.khan@org.in,0814995273,notadate,20-05-2025,63,12
+CUST0596,Tanvi,Tiwari,Freshworks,17343848.24,FINANCE,Delhi,tanvi.tiwari230@corp.in,0805435737,2025-13-40,2009-02-16,55,21
+CUST0597,Ishita,Bhatia,Wipro,1442544.65,IT,Kolkata,ishita.bhatia593@org.in,+91-587903153996,1989-04-26,2020-11-05,65,20
+CUST0598,Rohan,Rawat,ICICI Bank,1392056.17,IT,Mumbai,rohan.rawat@mail.com,+91-7338266799,1960-05-23,29/12/2021,36,1
+CUST0599,Ananya,Chopra,PhonePe,2471173.58,FINANCE,Mumbai,ananya_chopra@company.co.in,+91 96990-804467,1990-09-30,2020-05-03,69,27
+CUST0600,Vihaan,Singh,,446886.61,IT,Bengaluru,vihaan.singh505@company.co.in,2685173,20-05-2025,31/31/2020,32,-1
+CUST0601,Pooja,Pandey,Larsen & Toubro,23659228.36,IT,Delhi,pooja.pandey862@corp.in,7100339,1980-03-25,2023-08-01,43,-4
+CUST0602,Ananya,Mukherjee,Mahindra,2973420.30,HR,Ahmedabad,ananya.mukherjee@corp.in,,1961-11-27,2016-12-18,35,-3
+CUST0603,Kunal,Kapoor,Amazon India,2986251.85,FINANCE,Ahmedabad,,+91-9554972879,1970-01-16,notadate,40,-2
+CUST0604,Ankit,Malhotra,Swiggy,1521260.64,FINANCE,Hyderabad,ankit.malhotra@mail.com,0969532310,2006-10-30,2025-01-15,38,-4
+CUST0605,Anshul,Rawat,Reliance Digital,-23155.41,HR,Hyderabad,anshul.rawat@corp.in,7922469281,,2011-06-30,41,1
+CUST0606,Ishita,Mehta,Maruti Suzuki,2723761.20,FINANCE,Ahmedabad,ishita.mehta391@company.co.in,0978651870,1976-03-08,2011-06-21,-8,29
+CUST0607,Amit,Bhatia,Tata Consultancy,1705502.23,IT,Pune,amit_bhatia558@example.com,2582370,13-2025-01,2009-03-08,-5,-2
+CUST0608,Aarav,Gupta,Larsen & Toubro,1384908.47,FINANCE,Chennai,aarav_gupta187@org.in,+91 85172-452457,13-2025-01,notadate,21,1
+CUST0609,Rahul,Sharma,Tata Consultancy,881825.12,HR,Kolkata,rahul.sharma783@mail.com,+91-348529042591,2001-04-31,2015-03-22,148,-3
+CUST0610,Kunal,Singh,Amazon India,2296778.86,FINANCE,Hyderabad,kunal.singh@org.in,7265758,1991-11-08,13-2025-01,24,16
+CUST0611,Aanya,,Flipkart,2308881.85,FINANCE,Delhi,aanya.rana@company.co.in,0837692638,2025-2-3,2008-01-29,36,32
+CUST0612,Riya,Jain,Aditya Birla Group,1340268.10,HR,Chennai,riya.jain230@corp.in,+91-6148788411,2025/15/01,2018-02-26,69,10
+CUST0613,Vivaan,Rana,Flipkart,2185270.65,HR,Mumbai,vivaan.rana@company.co.in,+91-588048891646,2001-04-31,2020-09-25,67,27
+CUST0614,Aaradhya,Dwivedi,HCL Technologies,48931250.24,FINANCE,Bengaluru,aaradhya.dwivedi@company.co.in,+91-910859494287,2004-07-14,2023-07-16,-4,21
+CUST0615,Vivaan,Arora,Flipkart,1674079.44,IT,Pune,,0880001206,20-05-2025,2016-01-07,39,17
+CUST0616,Advait,Dwivedi,Indian Oil,2095551.15,FINANCE,Kolkata,advait.dwivedi576@org.in,8674637,20250230,,30,6
+CUST0617,Kiran,Iyer,HDFC Bank,2036467.73,FINANCE,Bengaluru,,0966041998,1997-03-24,2020-02-11,18,0
+CUST0618,Rahul,Pillai,Indian Oil,738152.47,FINANCE,Ahmedabad,rahul.pillai@example.com,0725760580,31/31/2020,2025/15/01,56,18
+CUST0619,Amit,Bansal,Ola Cabs,410781.57,HR,Pune,,,notadate,2018-02-19,145,30
+CUST0620,Saanvi,Mishra,Indian Oil,2558872.50,FINANCE,Bengaluru,saanvi.mishra@company.co.in,+91-204837112796,2025-2-3,2023-10-08,27,-4
+CUST0621,Nitin,Tiwari,Indian Oil,31930577.87,HR,Kolkata,nitin.tiwari@org.in,4188489,1964-03-30,2000-00-10,-2,-4
+CUST0622,Tanvi,Mehta,,1491041.06,FINANCE,Delhi,tanvi.mehta@mail.com,7177543668,,2011-08-29,68,-2
+CUST0623,Riya,Mehta,Mahindra,1235335.98,HR,Mumbai,riya.mehta508@corp.in,0883036917,1961-12-11,2012-05-13,32,31
+CUST0624,Sneha,Agarwal,Larsen & Toubro,958601.99,IT,Ahmedabad,zquzv@xny,+91 80951-340006,2007-12-01,2012-09-15,66,1
+CUST0625,Rohan,Thakur,Mahindra,1321880.71,HR,Hyderabad,rohan.thakur@org.in,7425142606,1995-08-14,20250230,66,33
+CUST0626,Kunal,Sharma,ICICI Bank,1912462.10,FINANCE,Mumbai,kunal.sharma@corp.in,9692347,31/31/2020,20250230,68,49
+CUST0627,Ishaan,Mukherjee,Zoho,1587675.83,IT,Kolkata,,+91-299728722354,"Feb 30, 1990",09/03/2023,34,11
+CUST0628,Tanvi,Kapoor,HDFC Bank,1878411.15,IT,Chennai,tanvi.kapoor@org.in,+91 83165-884623,2005-07-24,2025-08-13,40,21
+CUST0629,Anshul,Rana,Zoho,1691469.81,HR,Hyderabad,anshul.rana@example.com,+91-8502203092,1974-07-31,2007-12-19,148,68
+CUST0630,Meera,Mehta,BYJU'S,1741507.52,HR,Pune,meera.mehta@mail.com,8278323617,1986-02-12,2017-11-02,32,10
+CUST0631,Ananya,Rana,Hero Motocorp,1226630.37,HR,Hyderabad,ananya_rana963@mail.com,0715823082,20-05-2025,notadate,54,13
+CUST0632,Kavya,Menon,Mahindra,1395765.66,IT,Bengaluru,kavya.menon958@corp.in,,1968-05-29,2010-11-26,113,-5
+CUST0633,Aditya,Ghosh,Wipro,2473289.54,HR,Kolkata,aditya_ghosh@example.com,+91-6099327121,2004-07-22,2023-07-23,50,29
+CUST0634,Ritika,Patel,HCL Technologies,2390529.33,IT,Bengaluru,ritika_patel112@org.in,+91 78754-700846,"Feb 30, 1990",2020-12-21,-9,-2
+CUST0635,Akash,Menon,Zomato,2483671.48,HR,Mumbai,,+91-302661051918,1976-02-22,2019-10-25,50,24
+CUST0636,Ananya,Agarwal,Infosys,24377924.36,HR,Pune,,0736104012,1999-07-30,2023-11-29,25,1
+CUST0637,Aditya,Ghosh,ICICI Bank,2992807.22,FINANCE,Pune,aditya.ghosh@org.in,0785807544,20250230,2010-03-26,30,1
+CUST0638,Ishaan,Iyer,Wipro,263848.62,FINANCE,,ishaan.iyer@org.in,+91-503373795569,1992-05-29,2023-03-02,23,5
+CUST0639,Dev,Naik,Reliance Digital,2388935.45,IT,Bengaluru,dev_naik@org.in,9135029,1975-09-26,2014-11-03,43,11
+CUST0640,Kunal,Menon,ICICI Bank,1485642.35,FINANCE,Ahmedabad,kunal_menon533@corp.in,+91-7346766234,1977-04-21,"Feb 30, 1990",22,-5
+CUST0641,Dev,Iyer,Hero Motocorp,267225.64,IT,Kolkata,dev.iyer@example.com,+91-9451399566,20250230,31/31/2020,40,-4
+CUST0642,Rohan,Pillai,HDFC Bank,1280971.04,IT,Pune,hbmoe@ndo,+91 70162-980012,1996-02-19,2021-06-28,66,34
+CUST0643,Neha,Tripathi,ICICI Bank,2990406.02,FINANCE,Chennai,neha.tripathi@company.co.in,8902821,,2008-10-04,61,12
+CUST0644,Advait,Naik,Aditya Birla Group,603103.77,FINANCE,Kolkata,advait.naik@corp.in,9396919079,1959-02-11,2013-05-22,26,6
+CUST0645,Ishaan,Pillai,Indian Oil,2428379.33,IT,Bengaluru,ishaan.pillai979@corp.in,+91 93935-236566,1984-09-23,2025-2-3,54,16
+CUST0646,Rohan,Naik,Amazon India,-36012.78,FINANCE,Hyderabad,rohan.naik902@company.co.in,+91-337502519731,1984-02-26,notadate,50,6
+CUST0647,Tanvi,Menon,BYJU'S,690261.36,FINANCE,Delhi,tanvi.menon24@mail.com,3802976,1976-07-06,2022-12-02,41,5
+CUST0648,Kiran,Kulkarni,Larsen & Toubro,590507.06,,Bengaluru,,0946418462,20250230,20-05-2025,42,22
+CUST0649,Ankit,Kaur,BYJU'S,-6265.06,FINANCE,Hyderabad,ankit.kaur@mail.com,4218000,,2018-02-10,30,10
+CUST0650,Kiran,Gupta,Zomato,641090.73,FINANCE,Chennai,kiran.gupta@mail.com,+91-7166820168,1998-04-27,2018-05-22,34,4
+CUST0651,Harshit,Mukherjee,Zoho,2531300.04,FINANCE,Chennai,ujdfu@pxh,+91-6467179398,1972-09-12,2025-13-40,69,43
+CUST0652,Sneha,Mukherjee,ICICI Bank,802891.77,IT,Bengaluru,sneha.mukherjee602@example.com,,1975-02-07,2025-2-3,28,9
+CUST0653,Ishita,Iyer,Aditya Birla Group,1925850.94,HR,Mumbai,ishita.iyer855@mail.com,7675535018,1997-09-21,2023-11-19,70,52
+CUST0654,Advait,Malhotra,Zomato,25666766.39,HR,Ahmedabad,advait.malhotra@mail.com,+91-6496963509,2025/15/01,20-05-2025,108,-5
+CUST0655,Meera,Dwivedi,Infosys,1298424.23,IT,Mumbai,wyteq@gsf,9515954,1956-09-17,2025-2-3,25,0
+CUST0656,Dev,Tiwari,BYJU'S,1117641.54,HR,Chennai,dev.tiwari771@mail.com,+91-857484840284,1977-12-05,2018-06-12,131,-3
+CUST0657,Ira,Das,Mindtree,2868154.35,FINANCE,Delhi,ira.das806@corp.in,+91-591961260283,1972-09-15,2001-04-31,18,0
+CUST0658,Arjun,Verma,ICICI Bank,2647651.35,IT,Pune,arjun.verma205@corp.in,+91-9323633993,1981-03-05,2000-00-10,64,15
+CUST0659,Harshit,Joshi,Wipro,489209.49,FINANCE,Hyderabad,harshit.joshi@mail.com,,1970-08-29,2020-08-20,-10,92
+CUST0660,Kavya,Bhatia,Zoho,38430084.99,IT,Mumbai,kavya.bhatia446@company.co.in,0866450010,1983-10-28,"Feb 30, 1990",40,3
+CUST0661,Ritika,Jain,Mindtree,963976.45,FINANCE,Ahmedabad,ritika.jain40@example.com,+91-799828100625,1963-03-21,2006-10-01,33,6
+CUST0662,Ishaan,Patel,HCL Technologies,2110875.01,HR,Hyderabad,ishaan.patel@company.co.in,0831268307,20-05-2025,2013-07-04,19,1
+CUST0663,Amit,Naik,Zomato,407401.62,IT,Mumbai,amit.naik@example.com,7763482591,1987-02-09,2024/02/30,64,35
+CUST0664,Nitin,Yadav,Mahindra,-36967.97,HR,Hyderabad,wdhve@fjt,+91-9736873463,,2023-05-04,-2,4
+CUST0665,Harshit,Khan,Mahindra,2231311.77,IT,Pune,harshit.khan293@org.in,+91-646250058361,1955-06-21,2006-10-06,145,-1
+CUST0666,Riya,Patel,Wipro,-32138.91,IT,Delhi,,9419112,2000-02-11,2019-03-24,35,12
+CUST0667,Diya,Mishra,Reliance Digital,704345.18,FINANCE,Bengaluru,,0853537435,1996-07-27,2014-09-04,28,-1
+CUST0668,,Patel,Freshworks,893689.19,IT,Mumbai,,+91 79454-142705,2002-08-25,2001-04-31,54,10
+CUST0669,Sonia,Mehta,Ola Cabs,2811313.10,HR,Mumbai,sonia.mehta@org.in,+91-376330674105,1993-10-02,2000-00-10,65,13
+CUST0670,Priya,,HDFC Bank,1268647.37,IT,Chennai,priya.das276@corp.in,+91-681221114617,2000-00-10,2008-09-04,30,12
+CUST0671,Aditya,Rana,Aditya Birla Group,925077.61,FINANCE,Ahmedabad,aditya.rana@example.com,8087352559,,20-05-2025,60,14
+CUST0672,Neha,Rawat,Reliance Digital,1407065.48,FINANCE,Kolkata,neha.rawat823@org.in,+91-464191563543,31/31/2020,2010-04-08,50,27
+CUST0673,Saanvi,Yadav,Mahindra,2859099.43,HR,Ahmedabad,,+91-8344806737,,"Feb 30, 1990",35,1
+CUST0674,Veer,Kulkarni,Flipkart,2633105.79,IT,Delhi,veer.kulkarni@example.com,7291566336,2025-2-3,2025/15/01,-1,73
+CUST0675,Rohan,Mishra,PhonePe,2566477.13,HR,Ahmedabad,rohan.mishra12@example.com,0950236341,1968-03-22,2011-06-08,59,15
+CUST0676,Aarav,Sharma,Hero Motocorp,2831604.07,IT,Kolkata,aarav.sharma311@org.in,0708165878,1976-08-07,2011-07-14,42,21
+CUST0677,Riya,Rawat,Wipro,931474.34,FINANCE,Hyderabad,riya.rawat955@mail.com,+91-434962909527,1969-07-03,2025-2-3,61,2
+CUST0678,Manya,Srivastava,Zomato,1608156.71,HR,Chennai,manya.srivastava66@mail.com,+91-9023897238,1958-01-08,2022-10-03,70,37
+CUST0679,Riya,Tripathi,Tech Mahindra,2552672.93,HR,Pune,riya.tripathi510@company.co.in,+91-934508962238,1979-03-09,2006-08-02,59,32
+CUST0680,Veer,Kulkarni,Flipkart,2897234.72,HR,Chennai,envkk@lfc,+91-905623701037,1985-11-29,30/05/2008,34,7
+CUST0681,Akash,Mehta,Wipro,-29524.96,FINANCE,Ahmedabad,akash.mehta@mail.com,+91 86508-992581,1987-04-02,2023-02-15,36,11
+CUST0682,Rahul,Menon,Swiggy,349685.44,HR,Ahmedabad,rahul.menon913@corp.in,0966052664,31/31/2020,2013-03-09,52,21
+CUST0683,,Khan,HCL Technologies,1003094.96,FINANCE,Chennai,vihaan.khan@mail.com,+91-8334887902,1999-12-19,2021-12-31,-3,63
+CUST0684,Vivaan,Saxena,Bharat Petroleum,2971121.60,IT,Pune,vivaan.saxena144@org.in,9423687953,,2022-10-13,121,88
+CUST0685,Pooja,Iyer,HCL Technologies,776476.61,IT,Kolkata,pooja.iyer@mail.com,+91 80501-821574,1955-06-01,2018-10-08,127,19
+CUST0686,Rohan,Agarwal,BYJU'S,2036647.43,HR,Mumbai,rohan_agarwal@company.co.in,+91-7748980104,notadate,2016-09-19,-2,-1
+CUST0687,Aditya,Das,Indian Oil,465591.51,FINANCE,Pune,aditya.das589@example.com,1896429,1957-05-22,2025-2-3,25,1
+CUST0688,Veer,Jain,Amazon India,1228802.49,FINANCE,Bengaluru,gcryx@iak,4156309,1989-05-18,2019-03-27,28,-3
+CUST0689,Rahul,Chaudhary,Mahindra,924729.85,HR,Mumbai,rahul.chaudhary872@company.co.in,7546346361,2000-00-10,20-05-2025,104,68
+CUST0690,Harshit,Bansal,Indian Oil,2354566.34,HR,Bengaluru,harshit.bansal232@example.com,0935525638,1999-02-03,2022-05-15,65,17
+CUST0691,Pooja,Bhatia,Zomato,2226610.92,FINANCE,Chennai,pooja.bhatia@org.in,0861178765,2001-04-31,2025/15/01,30,2
+CUST0692,Veer,Ghosh,Amazon India,2304357.59,FINANCE,Pune,veer.ghosh@mail.com,+91 84398-284585,2005-05-03,2025-07-16,69,9
+CUST0693,Aditya,Bansal,Zoho,1659445.32,FINANCE,Delhi,aditya.bansal801@company.co.in,0718448440,2003-04-16,2023-12-11,58,42
+CUST0694,Aditya,Tiwari,Amazon India,2009178.37,HR,Pune,aditya.tiwari@mail.com,+91-972615130545,1972-12-25,2011-11-25,39,9
+CUST0695,Vivaan,Rana,Reliance Digital,1523971.14,IT,Delhi,vivaan.rana@mail.com,+91-447364496816,1972-04-09,2012-01-19,113,66
+CUST0696,Tanvi,Sharma,Freshworks,237899.31,HR,Mumbai,,+91-8965079567,1966-11-25,2011-12-27,29,1
+CUST0697,Advait,Singh,Bharat Petroleum,1166476.84,HR,Hyderabad,advait.singh817@org.in,+91 83317-921581,1955-08-30,2009-01-27,25,-5
+CUST0698,Saanvi,Khan,Freshworks,2827409.98,HR,Bengaluru,nltjf@znx,0708829891,1991-01-05,"Feb 30, 1990",26,20
+CUST0699,Siddharth,Jain,Hero Motocorp,798024.93,HR,Pune,siddharth.jain@org.in,,1993-02-20,2018-10-26,64,4
+CUST0700,Harshit,Joshi,Paytm,-7070.42,FINANCE,Bengaluru,harshit.joshi258@mail.com,7885946661,1973-05-19,2013-07-29,-8,-4
+CUST0701,Veer,Tiwari,Amazon India,715537.88,IT,Mumbai,veer.tiwari819@mail.com,0899174185,"Feb 30, 1990",2009-02-05,61,8
+CUST0702,Aarav,Tripathi,Paytm,1078016.55,IT,Kolkata,aarav.tripathi@company.co.in,+91 94909-669090,1978-06-27,2024-11-29,51,17
+CUST0703,Sonia,Thakur,ICICI Bank,1268424.96,,Pune,sonia.thakur276@company.co.in,0757015237,1958-06-05,31/31/2020,29,-3
+CUST0704,Rahul,Yadav,Hero Motocorp,1703225.25,FINANCE,Mumbai,rahul.yadav440@company.co.in,+91-285726056187,1988-06-02,2014-07-22,39,38
+CUST0705,,Kulkarni,Flipkart,392922.35,FINANCE,Hyderabad,rahul.kulkarni972@org.in,+91 83787-347687,31/31/2020,2018-11-11,22,0
+CUST0706,Vihaan,Bhatia,Reliance Digital,1215374.05,FINANCE,Ahmedabad,vihaan.bhatia893@example.com,+91 87705-803734,20-05-2025,20-05-2025,51,29
+CUST0707,Priya,Bhatia,Mahindra,2472425.98,IT,Mumbai,priya.bhatia96@mail.com,2586602,1993-08-09,2020-07-10,145,23
+CUST0708,Arjun,Gupta,Mindtree,1040740.34,HR,Kolkata,arjun.gupta@org.in,+91-8156002907,1970-05-27,2025-07-31,-1,4
+CUST0709,Kunal,Kaur,BYJU'S,469558.41,HR,Hyderabad,kunal.kaur@org.in,0903592593,13-2025-01,notadate,61,35
+CUST0710,Ishita,Arora,Reliance Digital,2865917.99,IT,Delhi,ishita_arora@example.com,+91 87592-924757,1969-02-16,,18,17
+CUST0711,Ananya,Jain,HCL Technologies,1785621.73,FINANCE,Chennai,ananya.jain37@mail.com,+91-6369001649,13-2025-01,,28,1
+CUST0712,Ishaan,Saxena,Freshworks,2422979.06,IT,Hyderabad,ishaan.saxena715@company.co.in,8795201,1956-09-15,2025-13-40,33,2
+CUST0713,Harshit,Chopra,Aditya Birla Group,2906706.00,HR,Delhi,harshit_chopra263@mail.com,0934974195,1965-10-23,31/12/2012,-5,-5
+CUST0714,Arjun,Kulkarni,HDFC Bank,1720392.72,IT,Bengaluru,arjun.kulkarni@example.com,+91-7870215180,1979-02-10,2024-08-18,-2,92
+CUST0715,Tarun,Kaur,Mindtree,1567190.70,IT,Delhi,tarun.kaur@mail.com,+91-8137879768,1963-09-21,2009-04-12,-9,-1
+CUST0716,Kunal,Naik,Bharat Petroleum,1014315.54,IT,Pune,kunal.naik@org.in,5859326,notadate,2023-02-07,-10,23
+CUST0717,Kiran,Agarwal,Zomato,1802697.74,HR,Delhi,,+91-7931675686,2025-13-40,2015-10-17,69,61
+CUST0718,Ritika,Arora,Tata Consultancy,1468036.57,FINANCE,Chennai,ritika.arora256@org.in,+91-518865988790,2000-00-10,2025/15/01,39,18
+CUST0719,Kiran,Yadav,Wipro,1498521.73,IT,Ahmedabad,kiran.yadav191@corp.in,+91-936328748017,2025-2-3,2025-13-40,41,9
+CUST0720,Kiran,Bhatia,Hero Motocorp,1177090.75,FINANCE,Mumbai,kiran.bhatia334@example.com,2103689,,20-05-2025,40,13
+CUST0721,Priya,Banerjee,Larsen & Toubro,1916616.93,HR,Hyderabad,priya.banerjee429@org.in,+91-9318647142,2001-04-31,2013-03-19,64,36
+CUST0722,Aarav,Tiwari,HDFC Bank,-10799.70,HR,Delhi,aarav.tiwari@example.com,+91-9133252653,1989-05-28,2016-10-28,63,14
+CUST0723,Anshul,Singh,Amazon India,1067074.53,HR,Chennai,anshul.singh@company.co.in,+91 90348-249480,1990-04-04,2019-02-08,105,15
+CUST0724,Nitin,,Flipkart,1784289.87,FINANCE,Delhi,nitin.reddy@example.com,4354139,1961-02-23,2016-07-28,59,23
+CUST0725,Pooja,Thakur,Wipro,-44490.59,IT,Mumbai,pooja.thakur@corp.in,9713747950,1961-11-30,2009-07-13,64,3
+CUST0726,Neha,Joshi,HDFC Bank,1866640.25,HR,Bengaluru,apidv@ykb,+91 75309-375380,1980-07-30,2014-06-05,-9,70
+CUST0727,Rahul,Chopra,Mindtree,-592.38,FINANCE,Mumbai,rahul_chopra@company.co.in,0916590799,1968-11-15,08/08/2014,70,12
+CUST0728,Kunal,Dwivedi,Ola Cabs,2691096.35,IT,Kolkata,kunal.dwivedi@org.in,,1966-05-06,2025-2-3,-2,46
+CUST0729,Anshul,Verma,Infosys,269715.14,FINANCE,Hyderabad,anshul.verma@org.in,9013626,2000-04-22,2019-10-24,50,12
+CUST0730,Veer,Bansal,Infosys,2146733.32,FINANCE,Kolkata,veer.bansal71@example.com,+91-743608940087,1958-02-05,2022-04-02,69,40
+CUST0731,Sneha,Iyer,Swiggy,2370408.21,HR,Hyderabad,sneha.iyer955@corp.in,9826401514,1994-07-23,2012-11-21,26,4
+CUST0732,Riya,Banerjee,Ola Cabs,-20552.25,FINANCE,Pune,riya.banerjee496@company.co.in,9952100712,1963-07-22,2017-08-16,51,33
+CUST0733,,Tiwari,Ola Cabs,1217317.03,HR,Ahmedabad,kunal.tiwari@org.in,5945946,,2012-07-15,33,-4
+CUST0734,Dev,,Aditya Birla Group,1116362.89,FINANCE,Mumbai,qvyem@cfz,7669279650,1974-09-29,20-05-2025,39,1
+CUST0735,Riya,Pillai,HCL Technologies,1870368.41,FINANCE,Mumbai,vuepx@ted,+91-620196746114,1988-07-31,2025/15/01,-2,-2
+CUST0736,Siddharth,Kulkarni,Ola Cabs,2295997.61,HR,Mumbai,zkbiu@nrh,7729947,1970-06-28,05/12/2015,25,7
+CUST0737,Advait,Kapoor,Mahindra,1391748.32,HR,Ahmedabad,omeby@ssg,3212205,1962-12-28,05/06/2012,66,8
+CUST0738,Ira,Kulkarni,Larsen & Toubro,1856031.54,FINANCE,Pune,ira_kulkarni@org.in,0815772743,2025-13-40,2000-00-10,64,2
+CUST0739,Ishita,Chopra,Reliance Digital,694758.45,HR,Hyderabad,ishita.chopra@example.com,9714267,2003-10-16,2000-00-10,41,17
+CUST0740,Manya,Iyer,PhonePe,1759106.13,IT,Mumbai,manya.iyer@org.in,+91-9441053535,1986-03-25,2016-08-23,33,0
+CUST0741,Sneha,Naik,Flipkart,1282904.49,IT,Pune,sneha.naik98@example.com,+91-155328353802,2003-08-23,2024-05-31,-10,92
+CUST0742,Ira,Pandey,Hero Motocorp,1256896.01,FINANCE,Kolkata,ira.pandey@example.com,0941675714,2025/15/01,2000-00-10,43,45
+CUST0743,Anshul,Dwivedi,Mindtree,836659.08,IT,Delhi,anshul.dwivedi849@company.co.in,+91 81382-423591,,"Feb 30, 1990",22,0
+CUST0744,Ritika,Agarwal,Tata Consultancy,683624.02,IT,Mumbai,ritika.agarwal@company.co.in,8777324830,1963-01-04,31/31/2020,-7,1
+CUST0745,Aaradhya,Pillai,Paytm,576891.68,HR,Mumbai,aaradhya.pillai@company.co.in,+91-773493625330,1976-08-23,2025-13-40,67,5
+CUST0746,Ishaan,Dwivedi,Mindtree,2573698.37,IT,Ahmedabad,ishaan.dwivedi934@example.com,3638150,2000-01-15,2023-12-11,69,41
+CUST0747,Riya,Dwivedi,Infosys,668488.73,FINANCE,Hyderabad,riya_dwivedi639@example.com,+91-811331494893,1956-12-07,2025-13-40,46,-3
+CUST0748,Kunal,Kaur,Larsen & Toubro,2061922.86,IT,Hyderabad,tqfwb@uvb,9778103206,1988-02-23,2019-06-04,22,1
+CUST0749,Rahul,Chopra,Tech Mahindra,1004825.50,HR,Chennai,rahul.chopra@corp.in,8095144660,2025-13-40,2013-07-26,25,3
+CUST0750,Ritika,Khan,Tech Mahindra,2913133.63,HR,Hyderabad,ritika.khan@example.com,8177292097,1960-03-25,2010-10-20,67,30
+CUST0751,Aanya,Rana,Flipkart,2621657.49,FINANCE,Hyderabad,aanya.rana@org.in,9241617,2004-11-25,01/04/2025,118,-4
+CUST0752,Manya,Kulkarni,Zoho,1951604.21,IT,Kolkata,manya.kulkarni@org.in,+91 80616-377144,1963-03-27,2019-07-04,-8,25
+CUST0753,,Pandey,Tech Mahindra,1690374.45,FINANCE,Hyderabad,kiran.pandey@corp.in,0740061632,1957-12-30,2006-04-10,25,1
+CUST0754,Pooja,Das,Bharat Petroleum,-45051.18,,Chennai,pooja.das@example.com,+91 84340-145286,"Feb 30, 1990",2015-02-02,-6,-3
+CUST0755,Kiran,,HCL Technologies,2139157.57,IT,Bengaluru,lhhvg@dvn,0928390665,2002-02-10,2023-05-26,44,7
+CUST0756,Rahul,Agarwal,,1693020.32,HR,Ahmedabad,rahul_agarwal257@company.co.in,0776622838,31/31/2020,2008-05-03,114,72
+CUST0757,Kunal,Saxena,Reliance Digital,2065184.97,HR,Hyderabad,kunal.saxena@corp.in,0903138305,13-2025-01,2025-2-3,106,65
+CUST0758,Vivaan,Yadav,Indian Oil,1776344.36,,Chennai,vivaan.yadav@corp.in,4977387,1968-01-03,2021-10-27,105,-3
+CUST0759,Sneha,Sharma,BYJU'S,2425830.35,HR,Chennai,sneha.sharma@org.in,8093715861,1977-04-22,2025-2-3,44,11
+CUST0760,Saanvi,Bhatia,Indian Oil,2550158.54,FINANCE,Chennai,saanvi_bhatia670@mail.com,0783007536,1991-10-26,,18,-5
+CUST0761,Harshit,Agarwal,Paytm,699347.22,HR,Hyderabad,harshit.agarwal@company.co.in,0810258268,20250230,2020-10-20,29,3
+CUST0762,Ishaan,Bansal,Zomato,1831966.06,HR,Bengaluru,ishaan.bansal@org.in,+91-8179727225,1967-09-29,2005-10-13,58,44
+CUST0763,Kunal,Sharma,Tata Consultancy,2607604.81,HR,Delhi,kunal.sharma912@mail.com,+91 82809-955808,1993-02-18,2016-10-15,40,8
+CUST0764,Arjun,Naik,Paytm,1992033.62,FINANCE,Hyderabad,arjun.naik@org.in,+91 77988-113362,1961-02-28,2000-00-10,52,31
+CUST0765,Aanya,Saxena,Paytm,298615.37,FINANCE,Chennai,aanya.saxena@mail.com,7089356007,1972-07-27,2001-04-31,-9,-2
+CUST0766,Kiran,Pillai,Zomato,30925661.06,IT,Bengaluru,kiran.pillai@company.co.in,7127001219,20-05-2025,2012-02-09,57,31
+CUST0767,Vivaan,Tiwari,Ola Cabs,1187082.68,FINANCE,Pune,vivaan_tiwari@example.com,+91 92266-809887,2000-00-10,2017-07-03,26,19
+CUST0768,Nitin,Gupta,HDFC Bank,2366793.05,HR,Delhi,nitin.gupta547@company.co.in,8717965557,2025/15/01,2021-01-07,46,15
+CUST0769,Advait,Iyer,Zomato,1839996.45,FINANCE,Kolkata,qatnc@iqf,9063007,1959-08-26,2025/15/01,65,34
+CUST0770,Akash,Yadav,Wipro,1692574.53,FINANCE,Bengaluru,akash.yadav76@example.com,+91 80091-872699,1983-04-29,notadate,62,41
+CUST0771,Saanvi,Dwivedi,HCL Technologies,2205600.86,FINANCE,Delhi,saanvi.dwivedi@company.co.in,8643043401,1959-03-27,17/03/2021,22,2
+CUST0772,Aditya,Rastogi,Bharat Petroleum,279783.71,IT,Kolkata,aditya.rastogi@corp.in,7552232300,2025-13-40,2015-08-01,36,11
+CUST0773,Ankit,Iyer,Maruti Suzuki,1938580.67,FINANCE,Ahmedabad,ankit.iyer233@org.in,+91-794693711414,1994-01-06,2021-03-29,59,29
+CUST0774,Tanvi,Sharma,Zomato,1286788.72,FINANCE,Hyderabad,tanvi_sharma@company.co.in,+91-358706181698,1973-01-29,13-2025-01,60,61
+CUST0775,Ritika,Kulkarni,Aditya Birla Group,2519284.36,HR,Kolkata,ritika.kulkarni@example.com,+91-7903985684,2006-04-30,2025-02-12,47,2
+CUST0776,Kiran,Singh,Larsen & Toubro,34601489.79,FINANCE,Ahmedabad,,+91-311224670695,1968-08-02,2020-03-31,-1,-5
+CUST0777,Aanya,Menon,HCL Technologies,1618792.23,IT,Bengaluru,aanya.menon40@example.com,8569980706,13-2025-01,2009-05-05,46,24
+CUST0778,Vivaan,Tiwari,Mindtree,310060.93,IT,Bengaluru,vivaan_tiwari@org.in,7471798903,1985-08-22,2024/02/30,146,111
+CUST0779,Rohan,Rana,Hero Motocorp,1693127.78,FINANCE,Chennai,rohan.rana@company.co.in,+91-128110706400,1980-03-18,notadate,147,78
+CUST0780,Harshit,Rana,Tata Consultancy,2960633.94,IT,Ahmedabad,harshit.rana@org.in,0893651140,"Feb 30, 1990",2010-08-06,66,-5
+CUST0781,Kavya,Pandey,Tata Consultancy,1536918.39,IT,Ahmedabad,kavya.pandey@org.in,+91 89721-163911,1992-01-05,2018-06-08,29,0
+CUST0782,Tarun,Malhotra,Ola Cabs,34983111.61,FINANCE,Delhi,tarun_malhotra624@mail.com,,1959-01-14,19/04/2010,64,12
+CUST0783,Anshul,Das,Infosys,2649069.30,IT,Hyderabad,anshul_das735@org.in,+91-9570476275,2003-12-09,"Feb 30, 1990",61,31
+CUST0784,Sneha,Khan,Hero Motocorp,450256.21,IT,Chennai,sneha.khan482@company.co.in,0781705971,1990-11-01,2013-12-11,57,50
+CUST0785,Saanvi,Chaudhary,Ola Cabs,1237283.24,HR,Kolkata,saanvi.chaudhary@org.in,+91 75700-460415,1984-02-14,2025-2-3,23,5
+CUST0786,,Dwivedi,ICICI Bank,1316976.93,HR,Hyderabad,nitin.dwivedi@corp.in,0844348760,1996-04-30,2021-11-09,26,7
+CUST0787,Tarun,Tiwari,Zomato,730893.73,HR,Pune,mfbco@dbx,+91-7248980814,31/31/2020,2017-03-30,36,1
+CUST0788,Aditya,Patel,BYJU'S,773433.19,IT,,aditya.patel@org.in,+91 91653-538841,1996-04-17,20250230,135,-3
+CUST0789,Ishita,Das,Amazon India,860551.01,HR,Kolkata,ishita.das@company.co.in,7650904511,2000-05-14,2022-03-23,135,-2
+CUST0790,Manya,Kapoor,Indian Oil,1236038.61,HR,Ahmedabad,manya_kapoor297@company.co.in,+91 93958-493210,1970-11-01,2016-10-08,46,28
+CUST0791,Tarun,Rawat,Zoho,1520032.71,IT,Kolkata,tarun.rawat@company.co.in,+91-7795622520,1995-05-27,31/31/2020,-10,14
+CUST0792,Ishita,Pillai,Infosys,2086922.23,HR,Pune,ishita.pillai201@company.co.in,7816000552,2025-13-40,2023-06-07,58,31
+CUST0793,Advait,Yadav,PhonePe,539617.21,FINANCE,Pune,advait.yadav@example.com,0954077450,1985-07-24,2008-08-25,38,20
+CUST0794,Aaradhya,Arora,Tech Mahindra,48903261.36,FINANCE,Chennai,aaradhya.arora@example.com,+91-403871581890,1962-11-15,2011-05-26,138,10
+CUST0795,Advait,Iyer,HDFC Bank,590507.16,,Bengaluru,advait.iyer@company.co.in,0885238655,2025-2-3,2022-05-20,-4,21
+CUST0796,Tanvi,Thakur,ICICI Bank,763192.77,HR,Hyderabad,tanvi.thakur@org.in,+91-6388444159,2004-11-25,2001-04-31,40,20
+CUST0797,Ananya,Khan,ICICI Bank,222727.55,HR,Mumbai,xtqcq@pbv,6472410,2025/15/01,20250230,57,22
+CUST0798,Advait,Khan,Tech Mahindra,2512883.43,FINANCE,Chennai,advait_khan@mail.com,9783773939,notadate,2013-05-11,134,31
+CUST0799,Kabir,Malhotra,Swiggy,2824312.54,HR,Delhi,aqkio@fwa,+91-607257971320,2003-04-23,2023-11-29,54,9
+CUST0800,Arjun,Rawat,Tata Consultancy,1508365.61,IT,Delhi,,8919709,1996-03-04,,26,5
+CUST0801,Kiran,Das,Infosys,1426210.61,HR,Kolkata,,+91-8563087018,1981-07-11,2020-12-30,127,63
+CUST0802,Kunal,Tripathi,Tata Consultancy,40704365.81,IT,Chennai,kunal_tripathi@org.in,0942903363,20-05-2025,2005-06-21,32,-4
+CUST0803,Ritika,Iyer,Amazon India,2939106.21,HR,Bengaluru,ritika.iyer@mail.com,0736249469,2000-07-11,2021-03-19,64,39
+CUST0804,Aarav,Khan,Wipro,1114359.83,FINANCE,Chennai,aarav.khan460@corp.in,+91-652074033192,2001-07-20,13-2025-01,59,6
+CUST0805,Nitin,Menon,Tata Consultancy,2681873.94,FINANCE,Chennai,nitin.menon841@corp.in,,1976-01-15,2015-06-14,59,9
+CUST0806,Priya,Bhatia,Flipkart,2447181.84,IT,Pune,priya.bhatia403@corp.in,0898791737,1959-12-17,2011-04-01,41,11
+CUST0807,Saanvi,Bansal,Indian Oil,623041.71,HR,Pune,saanvi.bansal@corp.in,+91 73581-236469,1978-10-26,2011-07-19,107,-2
+CUST0808,Tanvi,Bhatia,Zoho,1721253.06,HR,Bengaluru,tanvi_bhatia@example.com,,2001-04-31,2007-02-06,-7,69
+CUST0809,Kiran,Menon,Freshworks,1239645.45,IT,Chennai,kiran.menon@example.com,0795170218,1988-05-26,23/08/2024,56,29
+CUST0810,Dev,,Reliance Digital,421794.21,HR,Kolkata,dev.rana415@example.com,3793368,1990-03-30,2024-12-12,53,10
+CUST0811,Ishita,Rastogi,PhonePe,835821.89,IT,Bengaluru,ishita.rastogi@org.in,+91-777838817395,1994-01-07,2016-04-20,39,2
+CUST0812,Ishaan,Jain,Zomato,2427139.99,FINANCE,Chennai,ishaan.jain@org.in,8564746376,"Feb 30, 1990",2022-08-13,66,-3
+CUST0813,Vihaan,Agarwal,Infosys,801761.05,HR,Hyderabad,vihaan.agarwal@company.co.in,+91 92235-956801,1993-10-20,31/31/2020,48,18
+CUST0814,Sneha,Menon,PhonePe,1654205.63,IT,Bengaluru,sneha.menon648@example.com,+91 83169-976721,1986-09-09,2013-10-27,36,-1
+CUST0815,Kiran,Thakur,ICICI Bank,2786833.94,FINANCE,Mumbai,oknnz@lmw,7294992,1975-11-22,2007-03-22,-6,-4
+CUST0816,Rahul,,Aditya Birla Group,1728449.43,HR,Ahmedabad,rahul.verma@corp.in,9356063681,1992-05-22,2019-05-16,67,42
+CUST0817,Rohan,Iyer,Zomato,857164.60,HR,Hyderabad,rohan.iyer@org.in,+91-567700116640,1985-05-27,2000-00-10,60,-5
+CUST0818,Riya,Mishra,BYJU'S,-24655.90,HR,Delhi,riya.mishra@example.com,+91-8788687444,1997-04-30,2023-10-15,38,9
+CUST0819,Saanvi,Saxena,,2882756.09,IT,Delhi,saanvi.saxena@mail.com,+91-268078144891,2001-04-31,23/04/2024,27,18
+CUST0820,Kunal,Iyer,BYJU'S,1038712.03,IT,Mumbai,kunal.iyer844@company.co.in,+91-584225388169,1970-08-27,2017-08-24,21,0
+CUST0821,Kavya,Rawat,Ola Cabs,1747984.38,HR,Ahmedabad,kavya.rawat71@org.in,+91 98416-820051,1963-11-25,2019-06-20,65,0
+CUST0822,Aditya,Mehta,Hero Motocorp,2852798.47,FINANCE,Kolkata,aditya.mehta@org.in,0950350336,1984-01-25,2025-13-40,-1,3
+CUST0823,Advait,Srivastava,Paytm,1067890.90,HR,Mumbai,advait.srivastava@corp.in,+91-7426580548,1957-03-01,2015-04-14,38,19
+CUST0824,Rohan,Mukherjee,,1931817.26,FINANCE,Mumbai,rohan.mukherjee@org.in,+91 98217-832616,1974-10-20,2020-09-10,55,-4
+CUST0825,Ananya,Verma,Swiggy,1105260.06,HR,Ahmedabad,ananya.verma519@company.co.in,,1970-06-16,2015-06-22,-2,73
+CUST0826,Priya,Singh,Zoho,47759315.94,FINANCE,Chennai,priya.singh@example.com,+91-746737524596,1979-12-14,31/31/2020,31,1
+CUST0827,Riya,Banerjee,Freshworks,1003592.52,HR,,riya.banerjee@company.co.in,1829379,1967-03-15,2009-05-13,68,28
+CUST0828,Rohan,Joshi,Mahindra,905437.80,HR,Delhi,rohan.joshi@corp.in,0949474070,1962-10-30,2015-08-17,70,56
+CUST0829,Anshul,Gupta,Flipkart,739826.57,IT,Ahmedabad,,4640118,1957-09-04,2018-01-16,26,5
+CUST0830,Ananya,Pandey,Maruti Suzuki,2854623.40,IT,Mumbai,ananya.pandey@org.in,0712913706,31/31/2020,2015-09-21,67,31
+CUST0831,Ankit,Ghosh,Tata Consultancy,2873815.99,IT,Chennai,ankit.ghosh@corp.in,+91-9461698344,1968-04-28,"Feb 30, 1990",21,-5
+CUST0832,Priya,Banerjee,Infosys,411432.72,IT,Hyderabad,priya.banerjee@org.in,+91-8309626857,1998-03-19,2022-03-04,48,30
+CUST0833,Rahul,Gupta,Tata Consultancy,2003546.55,FINANCE,Chennai,rahul.gupta452@org.in,+91 79043-990116,1996-06-26,2021-11-21,49,35
+CUST0834,Veer,Agarwal,Tech Mahindra,384289.52,HR,Kolkata,veer.agarwal@corp.in,6752536,1972-02-09,2000-00-10,-7,60
+CUST0835,Ritika,Dwivedi,BYJU'S,2413545.27,FINANCE,Ahmedabad,ritika.dwivedi248@org.in,+91 88829-127795,1974-06-11,2025-2-3,131,76
+CUST0836,Aarav,Thakur,PhonePe,1882170.29,HR,Pune,aarav_thakur@org.in,+91 77024-281395,1957-07-17,2006-05-10,25,6
+CUST0837,Ishaan,Iyer,Aditya Birla Group,733195.42,HR,Mumbai,ishaan_iyer@org.in,0927875396,1988-01-07,20-05-2025,55,41
+CUST0838,,Menon,Ola Cabs,1067559.47,,Bengaluru,diya.menon@org.in,+91-9368479672,2024/02/30,2009-08-26,50,13
+CUST0839,Pooja,Iyer,,2520740.20,,,pooja.iyer@mail.com,0919475731,,2011-08-25,57,1
+CUST0840,Veer,Agarwal,Indian Oil,2182303.86,HR,Chennai,veer.agarwal@mail.com,+91-9377868007,1989-04-16,,63,6
+CUST0841,Akash,Sharma,Hero Motocorp,1790868.92,IT,Hyderabad,akash.sharma@corp.in,7355161591,1967-05-16,2009-06-29,55,16
+CUST0842,Sneha,Gupta,Freshworks,2416138.13,IT,Delhi,sneha.gupta443@example.com,+91-488610050618,2025/15/01,2010-04-29,101,35
+CUST0843,Tarun,Mishra,Reliance Digital,546167.01,IT,Ahmedabad,tarun.mishra@org.in,7849550543,1982-11-06,notadate,61,45
+CUST0844,Veer,Bhatia,BYJU'S,836801.44,FINANCE,Delhi,veer.bhatia73@company.co.in,9658269475,1977-07-24,2020-01-09,30,2
+CUST0845,Priya,Patel,Hero Motocorp,1193682.92,IT,Mumbai,priya.patel545@org.in,+91-7056791013,2000-07-23,notadate,43,36
+CUST0846,Diya,Malhotra,Indian Oil,2254201.17,FINANCE,Pune,diya.malhotra905@example.com,6328978,20250230,2018-06-04,123,42
+CUST0847,Riya,Rawat,BYJU'S,34188843.76,FINANCE,Chennai,riya.rawat@org.in,+91-7050921003,1999-01-24,2023-03-06,133,60
+CUST0848,Ira,Chopra,ICICI Bank,2842476.18,IT,Delhi,,+91 94591-514756,20-05-2025,2025/15/01,70,18
+CUST0849,Kiran,Agarwal,Amazon India,2568055.40,HR,Kolkata,,+91 82879-466108,1955-10-04,2017-05-18,64,6
+CUST0850,Manya,Bansal,ICICI Bank,1715549.62,FINANCE,Mumbai,manya.bansal986@example.com,+91 96872-433553,1978-06-27,2024/02/30,45,9
+CUST0851,Priya,Patel,Aditya Birla Group,20759346.97,,Pune,gnpzk@eqb,+91-8031999723,2004-11-23,2022-12-07,19,1
+CUST0852,Ankit,Kaur,Reliance Digital,566330.35,HR,Ahmedabad,ankit.kaur@company.co.in,+91 88152-769824,2001-04-31,2016-10-07,59,60
+CUST0853,Saanvi,Chopra,Freshworks,2363588.95,HR,Ahmedabad,saanvi.chopra@company.co.in,+91 96942-573504,"Feb 30, 1990",2000-00-10,49,46
+CUST0854,Nitin,Joshi,Hero Motocorp,718926.31,FINANCE,Ahmedabad,nitin.joshi167@org.in,9424312184,1993-06-21,,35,6
+CUST0855,Kunal,Thakur,Tata Consultancy,592302.71,HR,Bengaluru,,0919084399,1956-10-19,2024-02-25,33,1
+CUST0856,Priya,Rana,,2785554.83,FINANCE,Delhi,priya_rana450@example.com,4105943,1958-12-19,2021-03-12,32,29
+CUST0857,Rohan,Patel,Infosys,1546737.90,HR,Chennai,rohan_patel198@mail.com,+91-826564949479,2000-03-05,2000-00-10,31,6
+CUST0858,Ishita,Patel,Ola Cabs,1748529.77,FINANCE,Kolkata,ishita.patel589@company.co.in,+91 98154-743694,1959-02-07,20-05-2025,59,25
+CUST0859,Rahul,Rastogi,Zoho,2882245.94,IT,Mumbai,rahul_rastogi@corp.in,,1958-06-03,2008-07-11,69,63
+CUST0860,Akash,,Ola Cabs,2915011.76,IT,Mumbai,,+91-585865113414,1975-05-28,2010-10-01,46,12
+CUST0861,Aarav,Kaur,Swiggy,1061420.49,HR,Bengaluru,aarav.kaur@org.in,9927601,,20-05-2025,65,21
+CUST0862,Dev,Dwivedi,Amazon India,1286711.06,FINANCE,Delhi,dev.dwivedi@corp.in,+91 72112-696761,2024/02/30,notadate,149,4
+CUST0863,Aditya,Rawat,Amazon India,2976722.53,FINANCE,Mumbai,jhpsh@mww,+91 87311-147310,"Feb 30, 1990",,31,0
+CUST0864,,Bansal,Aditya Birla Group,2957808.64,FINANCE,Mumbai,anshul.bansal80@mail.com,0875043362,1962-07-13,2018-05-06,60,17
+CUST0865,Dev,Chaudhary,Reliance Digital,2056181.67,FINANCE,Bengaluru,dev.chaudhary@mail.com,7087220299,1993-01-04,2023-08-11,52,29
+CUST0866,Ritika,Tripathi,Mahindra,1327478.58,HR,Delhi,ritika_tripathi@mail.com,7486796718,1990-11-27,2024/02/30,32,1
+CUST0867,Anshul,Chaudhary,Larsen & Toubro,323474.08,IT,Hyderabad,anshul.chaudhary117@corp.in,0703649027,,2015-03-06,66,38
+CUST0868,Sonia,Dwivedi,Tech Mahindra,2802493.35,HR,Bengaluru,sonia.dwivedi@company.co.in,+91 97651-195069,1996-05-28,2017-03-06,60,-3
+CUST0869,Kunal,Mukherjee,Amazon India,33508646.72,IT,Hyderabad,kunal.mukherjee944@company.co.in,0943747358,20-05-2025,2018-01-22,-3,110
+CUST0870,Ankit,Das,Indian Oil,24660510.16,FINANCE,Mumbai,ankit.das610@org.in,+91-188686702573,1971-12-02,2023-10-10,30,1
+CUST0871,Siddharth,Rawat,Tech Mahindra,1810597.56,FINANCE,Chennai,siddharth.rawat470@example.com,9770261113,,2000-00-10,37,4
+CUST0872,,Joshi,Wipro,674976.86,IT,Delhi,meera.joshi496@corp.in,+91 92342-427224,2025/15/01,2020-01-28,49,3
+CUST0873,Vivaan,Menon,Reliance Digital,2560827.69,HR,Hyderabad,vivaan.menon@corp.in,9389508791,1992-07-07,2015-09-28,43,22
+CUST0874,Kavya,Chopra,PhonePe,1454413.35,HR,Pune,kavya.chopra@company.co.in,+91-916543802722,1984-03-26,2020-08-10,67,-2
+CUST0875,Rahul,Bansal,Maruti Suzuki,1547133.75,FINANCE,Chennai,rahul.bansal@example.com,+91-347465058996,31/31/2020,2024-04-16,105,31
+CUST0876,,,,2375401.49,IT,Ahmedabad,ananya.malhotra@org.in,+91-642610871946,1973-02-06,,66,64
+CUST0877,Siddharth,Banerjee,Freshworks,2318527.51,IT,Hyderabad,enfpj@wmu,+91-9667148523,1995-11-18,2020-05-23,61,0
+CUST0878,Aarav,Menon,Maruti Suzuki,2789585.63,HR,Pune,rqfhw@xpj,2899995,1976-11-20,2025/15/01,21,0
+CUST0879,Saanvi,Pandey,Amazon India,1764254.57,IT,Kolkata,saanvi.pandey@org.in,+91 82707-490485,1988-04-08,2025-05-29,69,3
+CUST0880,Aditya,Jain,Wipro,2701554.35,FINANCE,Delhi,,+91-7025475008,1967-09-28,2007-11-24,40,38
+CUST0881,Veer,Gupta,Flipkart,649846.93,IT,Hyderabad,veer.gupta964@mail.com,+91 93202-656575,1971-11-29,2009-01-29,44,23
+CUST0882,Manya,Malhotra,Swiggy,2178911.66,FINANCE,Ahmedabad,zvain@aar,+91 98117-788400,1991-05-29,,-2,60
+CUST0883,Ankit,Patel,Maruti Suzuki,2360938.43,FINANCE,Pune,ankit.patel365@example.com,7933885549,1968-09-18,2013-06-06,47,20
+CUST0884,Tanvi,Rana,Zomato,1047966.03,FINANCE,Pune,tanvi.rana532@org.in,7647001076,2025/15/01,2025-2-3,53,10
+CUST0885,Aarav,Saxena,Zoho,1711929.24,,Kolkata,aarav.saxena@mail.com,+91-999106058972,13-2025-01,2014-10-21,20,0
+CUST0886,Kunal,Sharma,Zomato,1469622.01,HR,Bengaluru,kunal.sharma920@example.com,+91-9759800871,1976-01-21,2010-04-21,32,6
+CUST0887,Ishita,Kulkarni,Wipro,1051899.20,IT,Mumbai,ishita.kulkarni@company.co.in,+91-8884431239,1959-02-23,2014-12-15,19,1
+CUST0888,Sonia,Rana,HDFC Bank,2518870.25,IT,Bengaluru,dgnuy@ihu,+91-7682083425,2004-01-19,2024-07-15,38,0
+CUST0889,Pooja,Joshi,Flipkart,871515.43,IT,Delhi,pooja.joshi@org.in,8335736742,1987-03-24,2007-11-08,41,19
+CUST0890,Rohan,Pandey,Reliance Digital,358973.51,IT,Ahmedabad,rohan.pandey426@corp.in,9154178566,1981-04-25,2007-02-03,18,7
+CUST0891,Riya,Patel,Tech Mahindra,33980412.38,FINANCE,Ahmedabad,riya.patel734@org.in,8540370488,13-2025-01,2010-09-20,144,34
+CUST0892,Siddharth,Banerjee,Infosys,637627.83,IT,Mumbai,siddharth.banerjee@company.co.in,+91 85810-367216,1992-01-25,2025-13-40,48,7
+CUST0893,Ishita,Menon,Swiggy,988078.82,FINANCE,Ahmedabad,ishita.menon@example.com,+91 96509-368508,2000-00-10,2006-12-23,64,1
+CUST0894,Arjun,Singh,Ola Cabs,2432819.48,HR,Hyderabad,arjun.singh@corp.in,0750459066,1978-04-09,2025-2-3,52,27
+CUST0895,Tanvi,Thakur,Tech Mahindra,682899.11,FINANCE,Delhi,mmrxg@vyz,+91-8572938715,"Feb 30, 1990",2009-01-02,-5,5
+CUST0896,Rahul,Singh,Mindtree,2150872.26,HR,Mumbai,rahul_singh@company.co.in,0760904974,2025/15/01,2019-06-19,45,5
+CUST0897,Sneha,Khan,Infosys,2734998.17,IT,Kolkata,sneha.khan@example.com,+91-9131107728,"Feb 30, 1990",2017-07-07,36,8
+CUST0898,Tarun,Joshi,Amazon India,776856.89,FINANCE,Hyderabad,tarun.joshi@mail.com,5180555,1979-11-14,2008-04-02,47,16
+CUST0899,Saanvi,Das,PhonePe,1483497.64,FINANCE,Bengaluru,saanvi.das688@mail.com,+91-390484138571,1975-12-10,13-2025-01,61,12
+CUST0900,Riya,Chaudhary,Bharat Petroleum,1715058.86,HR,Mumbai,gejxv@opo,+91-841958819467,2006-01-17,2024-02-28,66,-2
+CUST0901,Vihaan,Arora,Mindtree,2686310.28,FINANCE,Hyderabad,vihaan.arora@org.in,+91-7562200427,2024/02/30,2010-03-01,60,17
+CUST0902,Ishita,Pandey,Ola Cabs,45753116.52,HR,Chennai,ishita.pandey@mail.com,+91 91956-105174,1992-11-24,2012-12-04,67,-3
+CUST0903,Neha,Arora,Infosys,562013.28,FINANCE,Pune,neha.arora39@org.in,+91 95081-378530,notadate,2022-11-21,51,38
+CUST0904,Dev,Rastogi,Zoho,2707186.52,HR,Ahmedabad,dev.rastogi765@mail.com,8180550638,1988-06-17,22/10/2021,64,11
+CUST0905,Kavya,Pillai,Mahindra,2876999.41,,,kavya.pillai206@example.com,0712557626,1981-12-29,2001-04-31,-7,23
+CUST0906,Saanvi,Naik,Indian Oil,1435474.33,IT,Chennai,saanvi.naik@example.com,+91-8360775931,1976-02-03,2012-01-21,-2,74
+CUST0907,Ishaan,Khan,PhonePe,1715723.12,IT,Ahmedabad,ishaan.khan902@mail.com,+91 97880-841617,1975-06-01,31/31/2020,114,77
+CUST0908,Kavya,,Flipkart,571081.57,IT,Pune,kavya.kaur293@org.in,2429989,1996-08-26,2015-07-28,19,1
+CUST0909,Pooja,Kaur,Mindtree,2543570.80,IT,Chennai,pooja.kaur@mail.com,0873424022,1962-11-10,2012-11-09,48,8
+CUST0910,Anshul,,Maruti Suzuki,2868978.24,IT,Kolkata,anshul.agarwal@company.co.in,0711597577,2025/15/01,20-05-2025,44,15
+CUST0911,Aaradhya,Mishra,Aditya Birla Group,1992524.67,IT,Chennai,aaradhya.mishra@corp.in,+91-7890952981,1998-07-17,2000-00-10,19,0
+CUST0912,Kunal,Iyer,Paytm,1311269.80,IT,Kolkata,kunal.iyer@org.in,+91-8115154432,1976-05-22,21/12/2024,59,9
+CUST0913,Tarun,Chaudhary,Paytm,2479268.46,FINANCE,Delhi,tarun_chaudhary@org.in,+91-295948055963,1987-07-16,2020-12-22,59,10
+CUST0914,,Tiwari,Reliance Digital,2189353.31,HR,Chennai,amit.tiwari647@example.com,7674142283,1985-05-01,19/06/2021,-3,117
+CUST0915,Aarav,Bansal,Aditya Birla Group,-7529.97,HR,Pune,aarav.bansal@mail.com,+91-9149486380,2025-13-40,"Feb 30, 1990",-9,78
+CUST0916,Veer,Patel,Zomato,2837983.88,IT,Delhi,veer.patel@org.in,+91-7430854453,1998-08-10,2024-03-02,56,9
+CUST0917,Ishaan,Malhotra,Maruti Suzuki,1442963.48,,Kolkata,ishaan.malhotra418@corp.in,9562289,20-05-2025,2025/15/01,56,15
+CUST0918,Amit,Tripathi,Hero Motocorp,1866123.85,IT,Pune,amit.tripathi@org.in,2752612,20-05-2025,2011-07-18,61,13
+CUST0919,Aaradhya,Yadav,Zoho,777621.53,FINANCE,Chennai,,0975697672,1958-01-14,2015-01-02,-5,-1
+CUST0920,Anshul,Kulkarni,Reliance Digital,2361378.80,FINANCE,Delhi,anshul.kulkarni961@mail.com,,,2010-01-08,137,-4
+CUST0921,Kiran,Mehta,Reliance Digital,1008128.31,IT,Delhi,kiran.mehta@mail.com,8187470563,1967-01-22,2025-13-40,19,0
+CUST0922,Ritika,Patel,Infosys,1533404.01,FINANCE,Pune,ritika.patel779@corp.in,6770390,1975-07-02,2012-11-07,21,-4
+CUST0923,Manya,Chopra,Indian Oil,384019.61,HR,Chennai,,+91 78854-240249,1998-04-28,2022-12-01,32,27
+CUST0924,Amit,Das,Reliance Digital,1048189.54,IT,Pune,jqfsa@ewc,0936801840,1983-10-19,2012-07-06,61,9
+CUST0925,Ananya,Kaur,Reliance Digital,2186271.75,HR,Bengaluru,ananya.kaur@mail.com,+91-6478051708,31/31/2020,2015-11-14,37,7
+CUST0926,Sonia,Arora,PhonePe,41282635.15,FINANCE,Chennai,sonia.arora250@company.co.in,8226148,1978-12-17,2008-06-09,26,4
+CUST0927,Vihaan,Yadav,Paytm,451444.01,HR,Bengaluru,vihaan.yadav@example.com,+91-812681967115,2001-02-26,14/12/2020,46,28
+CUST0928,Ira,Reddy,HCL Technologies,1863713.99,IT,Ahmedabad,ira.reddy934@org.in,+91 78237-419058,2002-01-28,2021-01-01,67,58
+CUST0929,Rahul,Kapoor,,2517726.89,IT,Bengaluru,rahul_kapoor197@mail.com,8517129148,2007-07-16,2025-08-01,31,2
+CUST0930,Ira,Kulkarni,Flipkart,2743377.88,IT,Bengaluru,ira.kulkarni670@org.in,,1955-09-07,2012-04-22,23,2
+CUST0931,Sonia,Kapoor,HDFC Bank,1520775.69,FINANCE,Mumbai,sonia.kapoor@org.in,+91-7621336998,1976-06-20,2022-06-21,46,42
+CUST0932,Ankit,Iyer,Larsen & Toubro,1866711.25,HR,Mumbai,ankit.iyer@corp.in,0924629673,2000-00-10,2020-09-19,36,11
+CUST0933,,Jain,Mahindra,2292907.57,IT,Pune,aaradhya_jain@example.com,+91 74218-602747,2001-02-25,2025-13-40,47,15
+CUST0934,Harshit,Patel,Indian Oil,2665432.50,IT,Delhi,harshit.patel362@org.in,0856269548,1996-07-30,2000-00-10,57,-1
+CUST0935,Meera,Tiwari,Paytm,519658.43,FINANCE,,meera_tiwari862@org.in,8196604,1979-08-01,2025-04-23,135,32
+CUST0936,Saanvi,Tripathi,Freshworks,2519896.10,IT,Hyderabad,saanvi.tripathi@example.com,,1964-11-11,2000-00-10,28,7
+CUST0937,Veer,Bansal,Tata Consultancy,1105002.19,IT,Chennai,veer.bansal537@mail.com,+91 78644-458881,2000-09-06,2020-08-04,19,1
+CUST0938,Kunal,Reddy,Aditya Birla Group,-47314.02,FINANCE,Ahmedabad,kunal.reddy@company.co.in,3098215,1996-06-14,2014-11-26,27,7
+CUST0939,Ananya,Pillai,Wipro,1976408.82,IT,Mumbai,ananya.pillai@example.com,+91 81684-244750,1987-04-12,2022-05-03,38,0
+CUST0940,Kiran,Mukherjee,Larsen & Toubro,2400147.27,IT,Ahmedabad,kiran.mukherjee@example.com,8941712,1964-04-23,2012-05-31,44,4
+CUST0941,Ritika,Pandey,Mahindra,759814.11,FINANCE,Chennai,ritika.pandey@company.co.in,+91-329550836485,2007-03-17,2025-05-15,70,29
+CUST0942,Manya,Chopra,Hero Motocorp,1017656.25,FINANCE,Ahmedabad,manya.chopra@org.in,7480552555,"Feb 30, 1990",2012-05-29,51,31
+CUST0943,Kiran,Das,BYJU'S,2630596.30,HR,Kolkata,kiran.das473@org.in,+91-814575944907,2001-04-31,2009-10-01,23,0
+CUST0944,Arjun,Patel,Hero Motocorp,2837268.90,IT,Mumbai,,+91-203966818555,31/31/2020,07/11/2017,18,-3
+CUST0945,Ankit,Dwivedi,Indian Oil,772145.91,HR,Pune,ankit.dwivedi@mail.com,0738109430,1999-06-11,2024-10-21,18,0
+CUST0946,Kabir,Reddy,Mindtree,2167061.71,IT,Hyderabad,kabir.reddy898@corp.in,7326275453,1970-12-05,2021-04-27,24,3
+CUST0947,Veer,Kulkarni,Zoho,1033883.03,IT,Kolkata,veer.kulkarni@corp.in,8917479,1960-08-28,2021-04-25,47,20
+CUST0948,Manya,Joshi,Larsen & Toubro,-26988.38,HR,Mumbai,manya.joshi@company.co.in,6049280,2000-00-10,"Feb 30, 1990",56,10
+CUST0949,Pooja,Yadav,Paytm,2470736.86,FINANCE,Ahmedabad,pooja.yadav585@mail.com,+91-6283857353,1972-01-12,2011-10-21,32,11
+CUST0950,Sneha,Gupta,Freshworks,2302239.81,FINANCE,,sneha.gupta@corp.in,+91-365740741841,1989-09-10,20-05-2025,33,2
+CUST0951,Neha,Tiwari,HDFC Bank,1421635.64,FINANCE,Pune,neha.tiwari440@corp.in,0733212004,2024/02/30,2014-07-05,-1,-1
+CUST0952,,Malhotra,Hero Motocorp,301667.49,FINANCE,Kolkata,,,1976-02-05,2010-07-11,33,1
+CUST0953,Kabir,Yadav,BYJU'S,591696.38,HR,Delhi,kabir.yadav@example.com,+91 99650-278998,1974-06-19,2007-05-19,70,-4
+CUST0954,Sneha,Menon,Flipkart,359453.92,FINANCE,Hyderabad,sneha.menon804@company.co.in,+91-7753173049,2000-00-10,2009-09-17,67,4
+CUST0955,Aaradhya,Joshi,Tech Mahindra,1353026.07,FINANCE,Ahmedabad,aaradhya.joshi503@mail.com,9213628220,1992-09-19,2011-08-03,68,17
+CUST0956,Advait,Tripathi,ICICI Bank,1492049.64,HR,Chennai,advait_tripathi576@mail.com,6473851,1997-02-10,2015-12-24,52,-1
+CUST0957,Kunal,Menon,Aditya Birla Group,1213666.89,,Hyderabad,kunal.menon@example.com,+91-144228893758,1983-08-13,2015-02-11,-3,20
+CUST0958,Vihaan,Pandey,Reliance Digital,2040651.94,IT,Kolkata,,+91-8336040057,1968-02-05,notadate,36,9
+CUST0959,Advait,Chaudhary,Mindtree,45732624.56,IT,Pune,advait.chaudhary@example.com,,1982-11-21,2018-07-01,57,22
+CUST0960,Aanya,Singh,Larsen & Toubro,1160452.92,FINANCE,Mumbai,aanya.singh309@example.com,9602782685,1957-03-22,2014-03-25,59,49
+CUST0961,Vihaan,Singh,BYJU'S,2196453.85,FINANCE,Bengaluru,vihaan.singh590@mail.com,+91-7857449909,1965-07-19,2023-05-13,61,14
+CUST0962,Priya,Tripathi,HDFC Bank,1204052.29,IT,Ahmedabad,priya.tripathi@corp.in,+91 92517-588671,1961-04-01,21/05/2005,61,1
+CUST0963,Sneha,Thakur,ICICI Bank,1357702.58,IT,Delhi,sneha.thakur@company.co.in,+91 96369-588167,1980-01-19,26/10/2006,-7,9
+CUST0964,Tanvi,Bansal,Freshworks,668753.02,IT,Mumbai,tanvi.bansal@mail.com,+91 90726-185436,1984-09-07,2020-11-17,39,11
+CUST0965,Aditya,Chopra,BYJU'S,836667.29,IT,Delhi,aditya.chopra@corp.in,,1993-01-23,13-2025-01,42,33
+CUST0966,Akash,Chopra,Reliance Digital,2806342.83,FINANCE,Hyderabad,akash.chopra947@company.co.in,+91-9162279564,"Feb 30, 1990",11/03/2011,-3,47
+CUST0967,Tanvi,Mishra,Swiggy,2126121.14,HR,Pune,tanvi.mishra@org.in,+91-237928080180,1967-12-06,notadate,36,-2
+CUST0968,Rohan,Yadav,Mahindra,1348227.15,HR,,rohan.yadav@mail.com,+91-828437004903,2005-12-31,2024-07-18,59,10
+CUST0969,Tarun,Ghosh,Zoho,2279932.02,FINANCE,Chennai,tarun.ghosh@example.com,+91 73816-845673,2003-12-18,2023-05-12,43,4
+CUST0970,Sneha,Mehta,BYJU'S,1078971.14,IT,Pune,lzugr@jtc,7681868,"Feb 30, 1990",07/11/2011,47,43
+CUST0971,Amit,Dwivedi,Freshworks,2488649.54,FINANCE,Ahmedabad,amit.dwivedi888@example.com,+91-9776328112,1976-12-12,2000-00-10,32,6
+CUST0972,Riya,Kapoor,Swiggy,1427217.10,IT,Pune,riya.kapoor942@corp.in,7960047585,1997-08-30,2021-05-16,60,38
+CUST0973,Sneha,,Infosys,477901.90,HR,Ahmedabad,sneha.mehta@company.co.in,0921023629,2003-10-19,22/04/2024,67,27
+CUST0974,Meera,,Reliance Digital,306093.64,IT,Kolkata,wokaf@jhy,+91-7448977934,1999-01-12,2017-09-17,51,53
+CUST0975,Arjun,Kapoor,Swiggy,1623438.08,IT,Ahmedabad,,5392427,1967-05-26,2013-01-07,-1,26
+CUST0976,Kabir,Srivastava,Mahindra,1790083.69,IT,Kolkata,kabir.srivastava900@org.in,+91-146349557369,notadate,2010-10-26,56,31
+CUST0977,Vihaan,Saxena,HDFC Bank,2332223.88,HR,Ahmedabad,vihaan.saxena@org.in,3264564,1999-06-18,06/09/2024,143,34
+CUST0978,Saanvi,Iyer,Paytm,1181817.40,HR,Kolkata,saanvi.iyer650@org.in,+91 86205-950741,1973-05-12,2019-08-27,-5,8
+CUST0979,Manya,Kaur,Infosys,-34332.05,FINANCE,Delhi,manya.kaur@example.com,+91 76950-298506,1990-12-04,2015-09-18,41,3
+CUST0980,Aarav,Chopra,Flipkart,1959067.17,FINANCE,Delhi,,+91-6691680232,1985-05-18,2007-08-28,41,13
+CUST0981,Kavya,Agarwal,Reliance Digital,1481166.21,HR,Hyderabad,kavya_agarwal@corp.in,0950462058,1987-08-22,01/10/2021,22,13
+CUST0982,Nitin,Reddy,,2344666.16,HR,Kolkata,nitin.reddy@org.in,0818405044,13-2025-01,2014-07-04,30,9
+CUST0983,Advait,Mukherjee,Infosys,2754233.04,HR,Hyderabad,,+91-437407911739,1988-10-29,2015-02-18,58,7
+CUST0984,Neha,Rawat,Hero Motocorp,1598040.72,FINANCE,Delhi,neha.rawat@corp.in,5566634,1977-03-17,2012-09-12,-9,-1
+CUST0985,Arjun,Chopra,Swiggy,355288.14,FINANCE,Pune,arjun.chopra@org.in,8364174,1971-05-02,2014-03-05,59,32
+CUST0986,Aaradhya,Khan,,1019480.88,IT,Delhi,aaradhya.khan683@example.com,0933940467,2025-13-40,2010-04-06,67,69
+CUST0987,Sonia,Pandey,Aditya Birla Group,1898665.03,IT,Pune,sonia.pandey@company.co.in,+91-8801756175,2000-11-22,2021-01-21,147,81
+CUST0988,Advait,Thakur,Amazon India,-48486.38,FINANCE,Chennai,advait.thakur427@mail.com,+91-8317722877,2025/15/01,2024-10-06,62,15
+CUST0989,Ananya,Ghosh,PhonePe,2525192.18,IT,Hyderabad,ananya.ghosh691@company.co.in,+91 91353-306045,1996-01-27,2023-07-17,24,-5
+CUST0990,Ira,Dwivedi,HDFC Bank,740096.83,FINANCE,Pune,pgnqo@kcn,+91-9718575699,1991-06-24,2000-00-10,-2,1
+CUST0991,Neha,,Maruti Suzuki,201663.39,FINANCE,Chennai,neha.chaudhary246@org.in,+91-777050462388,1960-10-19,2007-03-26,58,14
+CUST0992,Tarun,Mehta,Aditya Birla Group,1570479.14,FINANCE,Hyderabad,ecmpa@kyt,+91-636344844772,1988-01-09,2018-08-09,103,112
+CUST0993,Anshul,Rastogi,Aditya Birla Group,2819619.54,FINANCE,Pune,anshul.rastogi458@company.co.in,+91-7656802524,1975-04-26,20-05-2025,33,14
+CUST0994,,Gupta,Freshworks,989143.55,FINANCE,Bengaluru,neha.gupta@example.com,+91-6135171021,20250230,2025-01-19,26,5
+CUST0995,Priya,Chopra,Wipro,25265991.39,HR,Mumbai,priya.chopra581@mail.com,0763449415,1992-01-12,2023-01-28,22,1
+CUST0996,,Saxena,Maruti Suzuki,2663132.22,,Ahmedabad,,+91-6872705959,1962-12-09,,-9,-1
+CUST0997,Pooja,Jain,Bharat Petroleum,2407727.27,HR,Chennai,pooja.jain@org.in,+91 73181-111351,2025-13-40,2009-05-29,61,13
+CUST0998,Aanya,Rawat,Wipro,1553695.13,IT,Hyderabad,aanya.rawat@corp.in,+91 92938-212583,2001-09-15,2001-04-31,-7,62
+CUST0999,Arjun,,HDFC Bank,255419.35,FINANCE,Ahmedabad,arjun.mukherjee@example.com,+91-7702895339,2004-10-30,2024-10-24,131,48
+CUST1000,Saanvi,Tiwari,HDFC Bank,1026117.32,HR,Pune,saanvi.tiwari402@org.in,+91-6337929958,1978-09-20,2000-00-10,39,11

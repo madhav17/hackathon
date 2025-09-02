@@ -88,7 +88,7 @@ def generate_dataset_schema(user_prompt):
 # Test Example
 if __name__ == "__main__":
     example_prompt = """
-    Generate a schema for a dataset with 10 rows. Include:
+    Generate a schema for a dataset with 50 rows. Include:
     - Name (string)
     - Salary (decimal, rounded to 2 places)
     - Department (string from HR, IT, FINANCE).
