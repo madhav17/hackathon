@@ -127,13 +127,6 @@ Expected JSON shape (illustrative):
         { "standardize_categories": { "column": "department", "mapping": { "it":"IT","hr":"HR","fin":"FINANCE" }, "case_insensitive": true } },
         { "drop_duplicates": { "subset": null, "keep": "first" } }
       ]
-    },
-    "scikit_learn": {
-      "preprocess": {
-        "numeric": { "imputer": { "strategy": "median", "fill_value": null }, "scaler": "standard" },
-        "categorical": { "imputer": { "strategy": "most_frequent", "fill_value": null }, "one_hot_encode": true, "handle_unknown": "ignore" }
-      },
-      "reports": { "missing_rate": true, "variance_threshold": { "threshold": 0.0 }, "category_cardinality": true }
     }
   },
   "notes": [
@@ -147,7 +140,8 @@ Now produce ONLY the JSON for the given inputs.
 '''
 
         # self.english_instruction : str =  "[Filter all those records where status is not shipped and (amount greater than 500 or country is US)]"
-        self.english_instruction : str =  "[Filter all those records where country in US or IN; coerce amount and salary to numeric; cap amount at 100000; fill missing salary with median; trim and lowercase department; one-hot encode department; fill missing age with constant 18; standard-scale numeric features.]"
+        # self.english_instruction : str =  "[Select all those records where city in Delhi or Mumbai; set department to IT where department is null or empty; set age to 0 where age is null or empty or less 0]"
+        self.english_instruction : str =  "[set department to IT where department is null or empty; set age to 0 where age is null or empty or less 0]"
 
 
     def execute_api(self):
